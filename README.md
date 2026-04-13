@@ -3,7 +3,7 @@
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C420%20rows-8250df">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C417%20rows-8250df">
   <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C424%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
@@ -11,10 +11,10 @@
 
 Daily-updated public extract of available and resale .cfd one-word domains from Unique Domains.
 
-> **Important:** this repository is a **public 9,420-row extract**, not the full live catalog.
+> **Important:** this repository is a **public 9,417-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **9,424 domains** on the canonical page below.
 
-**Public extract:** 9,420 rows · **Live catalog:** 9,424 domains
+**Public extract:** 9,417 rows · **Live catalog:** 9,424 domains
 
 **Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/cfd`  
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .CFD one-word domain c
 
 ### Files
 
-- `cfd.csv` — public CSV extract (9,420 rows)
-- `cfd.json` — public JSON extract (9,420 rows)
+- `cfd.csv` — public CSV extract (9,417 rows)
+- `cfd.json` — public JSON extract (9,417 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -79,11 +79,11 @@ print(df.head())
 | leading.cfd      | available | $21.98    | —             | 102            | 20     | 7      | namecheap                          |
 | victor.cfd       | resell    | —         | —             | 68             | 65     | 6      | Dynadot LLC                        |
 | seventeen.cfd    | premium   | $60       | $80           | 84             | 62     | 9      | name.com                           |
-| accurate.cfd     | available | $21.98    | —             | 78             | 20     | 8      | namecheap                          |
+| component.cfd    | available | $21.98    | —             | 84             | 20     | 9      | namecheap                          |
 | motive.cfd       | resell    | —         | —             | 112            | 62     | 6      | Dynadot LLC                        |
 | enterprise.cfd   | premium   | $167.38   | $669.50       | 68             | 61     | 10     | namecheap                          |
-| diligent.cfd     | available | $21.98    | —             | 68             | 20     | 8      | namecheap                          |
-| free.cfd         | resell    | —         | —             | 88             | 59     | 4      | Dynadot LLC                        |
+| accurate.cfd     | available | $21.98    | —             | 78             | 20     | 8      | namecheap                          |
+| the.cfd          | resell    | —         | —             | 98             | 58     | 3      | Dynadot LLC                        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,420-row public sample | 9,424 live domains                               |
+| 9,417-row public sample | 9,424 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
