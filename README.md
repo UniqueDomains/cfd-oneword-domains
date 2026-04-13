@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .cfd one-word domains from 
 
 **Public extract:** 9,420 rows · **Live catalog:** 9,424 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/cfd`  
 **Best for:** founders, investors, studios
 
@@ -73,10 +73,10 @@ print(df.head())
 | waste.cfd        | available | $21.98    | —             | 104            | 22     | 5      | namecheap                          |
 | matt.cfd         | resell    | —         | —             | 72             | 71     | 4      | Namecheap                          |
 | line.cfd         | premium   | $167.38   | $669.50       | 74             | 65     | 4      | namecheap                          |
-| leading.cfd      | available | $21.98    | —             | 102            | 21     | 7      | namecheap                          |
+| defined.cfd      | available | $21.98    | —             | 68             | 21     | 7      | namecheap                          |
 | now.cfd          | resell    | —         | —             | 78             | 66     | 3      | Namecheap                          |
 | power.cfd        | premium   | $83.85    | $335.40       | 98             | 62     | 5      | namecheap                          |
-| defined.cfd      | available | $21.98    | —             | 68             | 21     | 7      | namecheap                          |
+| leading.cfd      | available | $21.98    | —             | 102            | 20     | 7      | namecheap                          |
 | victor.cfd       | resell    | —         | —             | 68             | 65     | 6      | Dynadot LLC                        |
 | seventeen.cfd    | premium   | $60       | $80           | 84             | 62     | 9      | name.com                           |
 | accurate.cfd     | available | $21.98    | —             | 78             | 20     | 8      | namecheap                          |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CFD One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CFD One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
