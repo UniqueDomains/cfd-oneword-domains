@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .cfd one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,332 domains · **Median ask:** $45.59 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-17  
+**Last updated:** 2026-05-27  
 **Canonical page:** `https://unique.domains/domains/tld/cfd`  
 **Best for:** founders, investors, studios
 
@@ -64,25 +64,25 @@ print(df.head())
 
 | domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                          |
 | --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------------------- |
-| inhouse.cfd     | available | $1.49     | —             | 70             | 23     | 8      | name.com                           |
+| distributed.cfd | available | $1.49     | —             | 64             | 21     | 11     | name.com                           |
 | jobs.cfd        | resell    | —         | —             | 79             | 42     | 4      | Dynadot LLC                        |
 | CocaCola.cfd    | premium   | $360.50   | $721          | 92             | 82     | 9      | namecheap                          |
-| distributed.cfd | available | $1.49     | —             | 64             | 21     | 11     | name.com                           |
+| generations.cfd | available | $1.49     | —             | 56             | 20     | 11     | name.com                           |
 | finds.cfd       | resell    | —         | —             | 62             | 16     | 5      | Global Domains International, Inc. |
 | winners.cfd     | premium   | $165.12   | $330.24       | 60             | 81     | 7      | namesilo                           |
-| generations.cfd | available | $1.49     | —             | 56             | 20     | 11     | name.com                           |
-| nets.cfd        | premium   | $22.40    | $44.80        | 54             | 81     | 4      | namecheap                          |
 | knows.cfd       | available | $1.49     | —             | 48             | 20     | 5      | name.com                           |
-| insight.cfd     | premium   | $360.50   | $721          | 76             | 69     | 8      | namecheap                          |
+| nets.cfd        | premium   | $22.40    | $44.80        | 54             | 81     | 4      | namecheap                          |
 | gobeyond.cfd    | available | $1.49     | —             | 76             | 19     | 9      | name.com                           |
-| online.cfd      | premium   | $360.50   | $721          | 70             | 62     | 7      | namecheap                          |
+| insight.cfd     | premium   | $360.50   | $721          | 76             | 69     | 8      | namecheap                          |
 | orders.cfd      | available | $1.49     | —             | 60             | 19     | 6      | name.com                           |
-| donuts.cfd      | premium   | $180.60   | $361.20       | 54             | 62     | 6      | namecheap                          |
+| online.cfd      | premium   | $360.50   | $721          | 70             | 62     | 7      | namecheap                          |
 | makes.cfd       | available | $1.49     | —             | 66             | 17     | 5      | name.com                           |
-| RedSox.cfd      | premium   | $360.50   | $721          | 72             | 60     | 7      | namecheap                          |
+| donuts.cfd      | premium   | $180.60   | $361.20       | 54             | 62     | 6      | namecheap                          |
 | intune.cfd      | available | $1.49     | —             | 72             | 16     | 7      | name.com                           |
-| farmers.cfd     | premium   | $360.50   | $721          | 54             | 59     | 7      | namecheap                          |
+| RedSox.cfd      | premium   | $360.50   | $721          | 72             | 60     | 7      | namecheap                          |
 | reflections.cfd | available | $1.49     | —             | 53             | 16     | 11     | name.com                           |
+| farmers.cfd     | premium   | $360.50   | $721          | 54             | 59     | 7      | namecheap                          |
+| smiths.cfd      | available | $1.49     | —             | 50             | 16     | 6      | name.com                           |
 | skills.cfd      | premium   | $180.60   | $361.20       | 58             | 47     | 6      | namecheap                          |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CFD One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CFD One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
