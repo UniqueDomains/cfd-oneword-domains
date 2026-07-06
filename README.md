@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .cfd one-word domains from 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,332 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,332 domains · **Median ask:** $45.59 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,332 domains · **Median ask:** $61.67 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/cfd`  
+**Last updated:** 2026-07-06
+**Canonical page:** `https://unique.domains/domains/tld/cfd`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .CFD one-word domain c
 
 ### Files
 
-- `cfd.csv` — public CSV extract (1,000 rows)
-- `cfd.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `cfd.csv`, public CSV extract (1,000 rows)
+- `cfd.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                          |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------------------- |
-| distributed.cfd | available | $1.49     | —             | 64             | 21     | 11     | name.com                           |
-| jobs.cfd        | resell    | —         | —             | 79             | 42     | 4      | Dynadot LLC                        |
-| CocaCola.cfd    | premium   | $360.50   | $721          | 92             | 82     | 9      | namecheap                          |
-| generations.cfd | available | $1.49     | —             | 56             | 20     | 11     | name.com                           |
-| finds.cfd       | resell    | —         | —             | 62             | 16     | 5      | Global Domains International, Inc. |
-| winners.cfd     | premium   | $165.12   | $330.24       | 60             | 81     | 7      | namesilo                           |
-| knows.cfd       | available | $1.49     | —             | 48             | 20     | 5      | name.com                           |
-| nets.cfd        | premium   | $22.40    | $44.80        | 54             | 81     | 4      | namecheap                          |
-| gobeyond.cfd    | available | $1.49     | —             | 76             | 19     | 9      | name.com                           |
-| insight.cfd     | premium   | $360.50   | $721          | 76             | 69     | 8      | namecheap                          |
-| orders.cfd      | available | $1.49     | —             | 60             | 19     | 6      | name.com                           |
-| online.cfd      | premium   | $360.50   | $721          | 70             | 62     | 7      | namecheap                          |
-| makes.cfd       | available | $1.49     | —             | 66             | 17     | 5      | name.com                           |
-| donuts.cfd      | premium   | $180.60   | $361.20       | 54             | 62     | 6      | namecheap                          |
-| intune.cfd      | available | $1.49     | —             | 72             | 16     | 7      | name.com                           |
-| RedSox.cfd      | premium   | $360.50   | $721          | 72             | 60     | 7      | namecheap                          |
-| reflections.cfd | available | $1.49     | —             | 53             | 16     | 11     | name.com                           |
-| farmers.cfd     | premium   | $360.50   | $721          | 54             | 59     | 7      | namecheap                          |
-| smiths.cfd      | available | $1.49     | —             | 50             | 16     | 6      | name.com                           |
-| skills.cfd      | premium   | $180.60   | $361.20       | 58             | 47     | 6      | namecheap                          |
+| domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                          |
+| --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------------------- |
+| aloud.cfd | available | $1.49     | —             | high           | low    | 5      | name.com                           |
+| dna.cfd   | resell    | —         | —             | high           | medium | 3      | Global Domains International, Inc. |
+| ala.cfd   | premium   | $76.76    | $165.12       | high           | low    | 3      | namesilo                           |
+| apart.cfd | available | $1.49     | —             | high           | low    | 5      | name.com                           |
+| boot.cfd  | resell    | —         | —             | high           | low    | 4      | Global Domains International, Inc. |
+| Ann.cfd   | premium   | $329.60   | $659.20       | high           | low    | 3      | namesilo                           |
+| badly.cfd | available | $1.49     | —             | medium         | low    | 5      | name.com                           |
+| deal.cfd  | resell    | —         | —             | medium         | low    | 4      | Global Domains International, Inc. |
+| any.cfd   | premium   | $90.30    | $180.60       | high           | medium | 3      | namecheap                          |
+| costs.cfd | available | $1.49     | —             | high           | low    | 5      | name.com                           |
+| grow.cfd  | resell    | —         | —             | high           | medium | 4      | Namecheap                          |
+| ate.cfd   | premium   | $76.76    | $165.12       | high           | low    | 3      | namesilo                           |
+| didnt.cfd | available | $1.49     | —             | medium         | low    | 5      | name.com                           |
+| Guys.cfd  | resell    | —         | —             | medium         | low    | 4      | Global Domains International, Inc. |
+| bag.cfd   | premium   | $329.60   | $659.20       | high           | low    | 3      | namesilo                           |
+| lapse.cfd | available | $1.49     | —             | high           | low    | 5      | name.com                           |
+| nice.cfd  | resell    | —         | —             | high           | medium | 4      | Namecheap                          |
+| boo.cfd   | premium   | $360.50   | $721          | high           | low    | 3      | namecheap                          |
+| messy.cfd | available | $1.49     | —             | medium         | low    | 5      | name.com                           |
+| crowd.cfd | resell    | —         | —             | high           | low    | 5      | Global Domains International, Inc. |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is made up of one-word .cfd domains. The names range from plain dictionary words such as mask.cfd, curtain.cfd, pilot.cfd, and claim.cfd to more descriptive words like nutritious.cfd and memorise.cfd. For founders, the key question is whether the word is memorable, easy to say, and strong enough to carry a niche extension. For investors, the core test is pricing discipline against extension risk. The median ask here is 45.59, which keeps entry cost low, but .cfd is not a mainstream extension, so resale depth and buyer recognition may be limited. When comparing these domains, focus on word quality first, then renewal terms, then trademark exposure.
+This list covers 12,332 one-word .CFD domain names, ranging from everyday nouns to compound brandable terms. Names such as Watches, Geton, Rolemodel, and Furnishings show the range of vocabulary available under this extension, with a median asking price near $62. Because .CFD is a newer, lower-cost extension, pricing tends to sit below legacy TLDs, making it a common testing ground for short, memorable one-word names.
 
-- Prioritize clear dictionary words over awkward or narrow terms
-- Use low ask prices to offset non-mainstream extension risk
-- Check renewal cost before judging a name as truly cheap
-- Avoid words with obvious trademark or category conflict
+- 12,332 one-word .CFD names available for comparison
+- Median ask near $62 — low entry point for testing ideas
+- Brandable single words: Watches, Geton, Rolemodel, Acup
+- Evaluate renewal cost and brand fit before buying
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CFD One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CFD One-Word Domains*. Version 2026-07-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
