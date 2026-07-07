@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .cfd one-word domains from 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,332 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,332 domains · **Median ask:** $61.67 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,332 domains · **Median ask:** $61.70 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-07-06
+**Last updated:** 2026-07-07
 **Canonical page:** `https://unique.domains/domains/tld/cfd`
 **Best for:** founders, investors, studios
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CFD One-Word Domains*. Version 2026-07-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CFD One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
