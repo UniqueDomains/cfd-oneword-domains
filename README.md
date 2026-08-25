@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .cfd one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 18,862 domains · **Median ask:** $49.74 · **High-demand under $2,500:** 68
 
-**Last updated:** 2026-08-24
+**Last updated:** 2026-08-25
 **Canonical page:** `https://unique.domains/domains/tld/cfd`
 **Best for:** founders, investors, studios
 
@@ -81,7 +81,7 @@ print(df.head())
 | ate.cfd   | premium   | $76.76    | $165.12       | high           | low    | 3      | namesilo                           |
 | barky.cfd | available | $1.39     | $26.98        | low            | low    | 5      | namecheap                          |
 | nice.cfd  | resell    | —         | —             | high           | medium | 4      | Namecheap                          |
-| bag.cfd   | premium   | $329.60   | $659.20       | high           | low    | 3      | namesilo                           |
+| bag.cfd   | premium   | $384      | $768          | medium         | low    | 3      | namesilo                           |
 | beamy.cfd | available | $1.39     | $26.98        | low            | low    | 5      | namecheap                          |
 | crowd.cfd | resell    | —         | —             | high           | low    | 5      | Global Domains International, Inc. |
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CFD One-Word Domains*. Version 2026-08-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CFD One-Word Domains*. Version 2026-08-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
