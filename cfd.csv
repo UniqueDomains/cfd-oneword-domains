@@ -3,7 +3,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 ee3a8029-67b4-4c9a-b33a-572144862275,horseback.cfd,available,1.49,29.99,high,low,9,name.com,,,
 4bf6ed6a-af0a-43d5-9fe5-d7055b992ada,sickandtired.cfd,available,1.49,,medium,low,14,name.com,,,
 f11be82e-28d1-40c6-aefa-ad351bc2b8cb,holdfirm.cfd,available,1.49,,high,low,9,name.com,,,
-6e230089-44d6-41ed-9208-9419c384d3ad,film.cfd,premium,329.6,659.2,high,low,4,namesilo,,,
+6e230089-44d6-41ed-9208-9419c384d3ad,film.cfd,premium,384,768,high,low,4,namesilo,,,17/09/2026 10:19
 1cb4acb0-462d-4fbe-a84c-338b0c0712ff,conquest.cfd,resell,,,medium,low,8,"Global Domains International, Inc.",13/01/2024 22:29,13/01/2027 23:59,
 54f90c97-fe94-4447-8e2b-22340ef5f05a,beatified.cfd,available,1.39,26.98,low,low,9,namecheap,,,09/08/2026 05:53
 d0dc04ae-e3e7-46c8-af4d-3fd159bc25cb,anabatic.cfd,available,1.39,26.98,low,low,8,namecheap,,,
@@ -404,10 +404,8 @@ b9f8862f-7418-4772-ab77-1d6b3c74a9c9,atbottom.cfd,available,1.49,,medium,low,9,n
 f08c761f-3fa0-4d90-b405-05aadab697d9,givesomeoneakiss.cfd,available,1.49,,medium,low,19,name.com,,,
 1659eba1-1595-48e8-877b-2f8045bb98fa,emergency.cfd,premium,37.76,76.16,medium,low,9,namesilo,,,
 587239c8-f815-49cd-9560-96a779bc6148,foodcourt.cfd,premium,37.76,76.16,high,low,10,namesilo,,,
-48f70b42-0908-460a-914e-236f9f9397f2,inexpensive.cfd,resell,,,high,low,11,Dynadot LLC,10/07/2024 16:40,10/07/2026 23:59,
 120a3043-cf7b-4f10-a7a0-5581fe237aa2,antiknock.cfd,available,1.39,26.98,low,low,9,namecheap,,,
 a0c94aa1-0fd2-4ac8-83dc-da548103d918,ballistic.cfd,available,1.39,26.98,low,low,9,namecheap,,,08/08/2026 10:31
-5a16bca3-8f2e-4530-af4d-48096f4b20d3,bashful.cfd,resell,,,medium,low,7,Dynadot LLC,10/07/2024 16:40,10/07/2026 23:59,
 d3894d66-9bb7-4a92-9c2b-5b4ce58f664c,aspirer.cfd,available,1.39,26.98,low,low,7,namecheap,,,07/08/2026 05:12
 1c08e614-4078-4cc1-8cbf-e6be1b44911e,abstracted.cfd,premium,68.43,147.2,low,low,10,namesilo,,,
 46ca5707-8f66-42c6-b2df-c0f6583861dd,accident.cfd,premium,37.76,76.16,medium,low,8,namesilo,,,
@@ -954,7 +952,7 @@ f741bc58-a6ab-464c-9361-c23ea62d1aea,absent.cfd,premium,241.88,322.5,high,low,6,
 d0a33a7f-37ba-4392-a5f9-18e90699e00e,explorer.cfd,premium,360.5,721,high,low,8,namecheap,,,
 b983818b-507b-4409-9cbd-9381f2bf506a,domestic.cfd,premium,60,80,high,low,8,name.com,,,
 241b8579-c3de-49d2-8464-7d18e07b1183,unused.cfd,available,1.49,,medium,low,6,name.com,,,
-1bf126fa-2df3-4259-aa89-be23eacbf970,proof.cfd,resell,,,high,low,5,"Global Domains International, Inc.",02/07/2022 01:51,02/07/2026 23:59,
+1bf126fa-2df3-4259-aa89-be23eacbf970,proof.cfd,premium,390,780,high,low,5,namecheap,,,17/09/2026 11:49
 2b2d24d0-a5c3-4c86-b829-88fab8d0bff1,small.cfd,premium,165.12,330.24,high,low,5,namesilo,,,
 bcc3968d-de0b-4dff-8b0e-3df4b88b3f25,barring.cfd,available,1.49,,medium,low,7,name.com,,,
 da99d0d9-b2be-4846-baed-97ce862b8f6c,crowd.cfd,resell,,,high,low,5,"Global Domains International, Inc.",30/04/2021 22:53,30/04/2028 23:59,
@@ -999,3 +997,5 @@ e19b9264-0ece-462a-a9c8-f0eb80c3abff,makeroom.cfd,available,1.49,,high,low,9,nam
 7c426f92-94a2-4544-8ad9-eb225829da8e,higher.cfd,premium,165.12,330.24,high,low,6,namesilo,,,
 7af8c9d6-dd5d-4a67-9106-f7e84c085e2d,african.cfd,premium,384,768,low,low,7,namesilo,,,
 16461da8-8cad-4f0e-8826-e320a474864b,dragon.cfd,premium,165.12,330.24,high,medium,6,namesilo,,,
+4fdadd86-703d-4b46-af02-522a388d184e,WinterHaven.cfd,premium,192,384,low,low,12,namesilo,,,
+d2ff255a-5a0d-4d6d-805a-10e594ba5f97,allocate.cfd,available,1.49,,high,low,8,name.com,,,

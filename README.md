@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .cfd one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 26,261 domains · **Median ask:** $44.81 · **High-demand under $2,500:** 78
 
-**Last updated:** 2026-09-17
+**Last updated:** 2026-09-18
 **Canonical page:** `https://unique.domains/domains/tld/cfd`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| period.cfd | premium   | $165.12   | $330.24       | high           | low    | 6      | namesilo                                                  |
-| agone.cfd  | available | $1.39     | $26.98        | low            | low    | 5      | namecheap                                                 |
-| dna.cfd    | resell    | —         | —             | high           | medium | 3      | Global Domains International, Inc.                        |
-| aft.cfd    | premium   | $192      | $384          | low            | low    | 3      | namesilo                                                  |
-| aloud.cfd  | available | $1.49     | —             | high           | low    | 5      | name.com                                                  |
-| boot.cfd   | resell    | —         | —             | high           | low    | 4      | Global Domains International, Inc.                        |
-| ala.cfd    | premium   | $76.76    | $165.12       | high           | low    | 3      | namesilo                                                  |
-| apart.cfd  | available | $1.49     | —             | high           | low    | 5      | name.com                                                  |
-| deal.cfd   | resell    | —         | —             | medium         | low    | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
-| Ann.cfd    | premium   | $329.60   | $659.20       | high           | low    | 3      | namesilo                                                  |
-| aroid.cfd  | available | $1.39     | $26.98        | low            | low    | 5      | namecheap                                                 |
-| grow.cfd   | resell    | —         | —             | high           | medium | 4      | Namecheap                                                 |
-| any.cfd    | premium   | $90.30    | $180.60       | high           | medium | 3      | namecheap                                                 |
-| badly.cfd  | available | $1.49     | —             | medium         | low    | 5      | name.com                                                  |
-| Guys.cfd   | resell    | —         | —             | medium         | low    | 4      | Global Domains International, Inc.                        |
-| ate.cfd    | premium   | $76.76    | $165.12       | high           | low    | 3      | namesilo                                                  |
-| barky.cfd  | available | $1.39     | $26.98        | low            | low    | 5      | namecheap                                                 |
-| nice.cfd   | resell    | —         | —             | high           | medium | 4      | Namecheap                                                 |
-| bag.cfd    | premium   | $384      | $768          | medium         | low    | 3      | namesilo                                                  |
-| beamy.cfd  | available | $1.39     | $26.98        | low            | low    | 5      | namecheap                                                 |
+| domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| agone.cfd | available | $1.39     | $26.98        | low            | low    | 5      | namecheap                                                 |
+| dna.cfd   | resell    | —         | —             | high           | medium | 3      | Global Domains International, Inc.                        |
+| aft.cfd   | premium   | $192      | $384          | low            | low    | 3      | namesilo                                                  |
+| aloud.cfd | available | $1.49     | —             | high           | low    | 5      | name.com                                                  |
+| boot.cfd  | resell    | —         | —             | high           | low    | 4      | Global Domains International, Inc.                        |
+| ala.cfd   | premium   | $76.76    | $165.12       | high           | low    | 3      | namesilo                                                  |
+| apart.cfd | available | $1.49     | —             | high           | low    | 5      | name.com                                                  |
+| deal.cfd  | resell    | —         | —             | medium         | low    | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
+| Ann.cfd   | premium   | $329.60   | $659.20       | high           | low    | 3      | namesilo                                                  |
+| aroid.cfd | available | $1.39     | $26.98        | low            | low    | 5      | namecheap                                                 |
+| grow.cfd  | resell    | —         | —             | high           | medium | 4      | Namecheap                                                 |
+| any.cfd   | premium   | $90.30    | $180.60       | high           | medium | 3      | namecheap                                                 |
+| badly.cfd | available | $1.49     | —             | medium         | low    | 5      | name.com                                                  |
+| Guys.cfd  | resell    | —         | —             | medium         | low    | 4      | Global Domains International, Inc.                        |
+| ate.cfd   | premium   | $76.76    | $165.12       | high           | low    | 3      | namesilo                                                  |
+| barky.cfd | available | $1.39     | $26.98        | low            | low    | 5      | namecheap                                                 |
+| nice.cfd  | resell    | —         | —             | high           | medium | 4      | Namecheap                                                 |
+| bag.cfd   | premium   | $384      | $768          | medium         | low    | 3      | namesilo                                                  |
+| beamy.cfd | available | $1.39     | $26.98        | low            | low    | 5      | namecheap                                                 |
+| crowd.cfd | resell    | —         | —             | high           | low    | 5      | Global Domains International, Inc.                        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CFD One-Word Domains*. Version 2026-09-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CFD One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
