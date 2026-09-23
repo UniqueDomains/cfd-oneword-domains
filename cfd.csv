@@ -1,6 +1,6 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
-56623943-530b-446e-9e01-255b533e740b,operation.cfd,premium,74.75,149.5,medium,low,9,namecheap,,,19/09/2026 07:38
-ee3a8029-67b4-4c9a-b33a-572144862275,horseback.cfd,available,1.49,29.99,high,low,9,name.com,,,
+56623943-530b-446e-9e01-255b533e740b,operation.cfd,premium,68.43,147.2,medium,low,9,namesilo,,,23/09/2026 03:22
+ee3a8029-67b4-4c9a-b33a-572144862275,horseback.cfd,available,1.88,19.49,medium,low,9,namesilo,,,21/09/2026 23:38
 4bf6ed6a-af0a-43d5-9fe5-d7055b992ada,sickandtired.cfd,available,1.49,,medium,low,14,name.com,,,
 f11be82e-28d1-40c6-aefa-ad351bc2b8cb,holdfirm.cfd,available,1.49,,high,low,9,name.com,,,
 6e230089-44d6-41ed-9208-9419c384d3ad,film.cfd,premium,384,768,medium,low,4,namesilo,,,19/09/2026 10:37
@@ -18,7 +18,7 @@ a98e9894-855f-4a64-8086-dc91192d65f4,berrylike.cfd,available,1.39,26.98,low,low,
 b369580b-007d-4a67-8d65-992caa71e359,pleaseexplain.cfd,available,1.49,,high,low,14,name.com,,,
 e20e0769-fa81-4774-ba71-53bc0aea4abe,finalyearproject.cfd,available,1.49,,high,low,18,name.com,,,
 3426a894-c094-407f-aec0-e563662b5580,respects.cfd,available,1.49,,high,low,8,name.com,,,
-0411d2dc-a93d-43fe-9f55-9134023fffe9,totally.cfd,available,1.49,29.99,high,low,7,name.com,,,
+0411d2dc-a93d-43fe-9f55-9134023fffe9,totally.cfd,premium,68.43,147.2,low,low,7,namesilo,,,22/09/2026 00:22
 419a9eb0-73f1-4864-8561-1bf579240c10,evitable.cfd,available,1.39,26.98,low,low,8,namecheap,,,07/08/2026 22:45
 ec4a509e-6b05-4a3a-bcdc-7a5e197c5d0d,rod.cfd,premium,90.3,180.6,medium,low,3,namecheap,,,
 a787d521-f33c-49fe-ab8e-4b91abc95957,xlviii.cfd,available,1.39,26.98,low,low,6,namecheap,,,
@@ -42,7 +42,7 @@ fda065a2-1198-4938-b179-f911e19c2cfd,aweigh.cfd,available,1.39,26.98,low,low,6,n
 12693090-6649-4d60-944d-a1987681818f,amatory.cfd,available,1.39,26.98,low,low,7,namecheap,,,
 e1cac975-e489-4727-ada0-8923fcb86e04,allogeneic.cfd,available,1.39,26.98,low,low,10,namecheap,,,
 a368a3ff-7d40-48c7-9db5-fa84a8f4243a,twist.cfd,premium,165.12,330.24,high,low,5,namesilo,,,
-7203640c-bd71-424e-975e-fe2d1ae60ba9,addicted.cfd,premium,60,80,high,low,8,name.com,,,
+7203640c-bd71-424e-975e-fe2d1ae60ba9,addicted.cfd,premium,68.43,147.2,medium,low,8,namesilo,,,21/09/2026 17:07
 109864a2-8a50-45ea-a119-d0954111d9d2,letterofindemnity.cfd,available,1.49,,medium,low,19,name.com,,,
 993b2e04-1231-46e3-956b-3a46d240d863,apetalous.cfd,available,1.39,26.98,low,low,9,namecheap,,,05/08/2026 22:35
 cd5ee7c7-89ef-4a99-ba1c-cd2caf4d22b2,healthy.cfd,premium,165.12,330.24,high,low,7,namesilo,,,
@@ -54,7 +54,7 @@ ed1232c1-424f-40bb-8267-77d071bf434a,drawup.cfd,available,1.49,,high,low,7,name.
 a20209c3-85ff-4549-97d6-3df2fc795850,dubstep.cfd,premium,46.61,94.8,high,low,7,namesilo,,,
 1e53ee1e-7e26-44b7-8db9-033f6328f7a9,siri.cfd,premium,18.88,37.76,high,high,4,namesilo,,,
 7b5b8caa-c8b8-4b8c-9f30-70d4df410b36,fiction.cfd,premium,165.12,330.24,high,low,7,namesilo,,,
-ed345f5f-800a-4b1d-8796-6ece4b06f01b,waste.cfd,available,1.49,,high,low,5,name.com,,,
+ed345f5f-800a-4b1d-8796-6ece4b06f01b,waste.cfd,premium,390,780,low,low,5,namecheap,,,22/09/2026 17:29
 179a9a16-f3c1-48ac-a847-2f502a4323db,givesomethingatry.cfd,available,1.49,,high,low,20,name.com,,,
 aef4f8bc-a659-4246-aecf-88f4ff411d32,detailed.cfd,available,1.49,29.99,medium,low,8,name.com,,,
 62e59743-b6d7-478a-86fc-2899abf6ae89,airborne.cfd,available,1.39,26.98,low,low,8,namecheap,,,
@@ -72,9 +72,9 @@ f7b8df1c-8f95-4343-b0d5-125c20c946d5,hbo.cfd,premium,329.6,659.2,high,medium,3,n
 a66bc5c2-5869-4e26-9a8c-de5eeb2f4f32,shakira.cfd,premium,165.12,330.24,high,low,7,namesilo,,,
 c090a2e1-e2a2-4dc7-8b6d-6d6e0800397c,forthat.cfd,available,1.49,,medium,low,8,name.com,,,
 e7450af2-e50d-492c-a159-9668cc32cd0d,whale.cfd,premium,165.12,330.24,medium,low,5,namesilo,,,
-8cb36ec0-528a-4675-a40b-a86838bdb20a,nervous.cfd,available,1.49,29.99,medium,low,7,name.com,,,
+8cb36ec0-528a-4675-a40b-a86838bdb20a,nervous.cfd,premium,68.43,147.2,low,low,7,namesilo,,,21/09/2026 22:02
 00b00c94-0da4-4bba-b9b9-17fa8c1acbf6,sacrificial.cfd,available,1.49,,low,low,11,name.com,,,
-9ee67619-610d-456a-9505-b47777b542ce,authorised.cfd,available,1.49,,high,low,10,name.com,,,
+9ee67619-610d-456a-9505-b47777b542ce,authorised.cfd,available,1.39,26.98,medium,low,10,namecheap,,,22/09/2026 13:51
 521a31bf-c567-417f-959f-e034b3fb7de4,practicalnurse.cfd,available,1.49,,high,low,15,name.com,,,
 1434dcfe-1dba-404c-bdf3-11e5e65defe4,space.cfd,premium,384,768,medium,low,5,namesilo,,,20/09/2026 02:45
 c8debe68-9412-49a2-b0a0-c06e9f3a9796,finalize.cfd,available,1.49,,high,low,8,name.com,,,
@@ -133,14 +133,15 @@ cbb494d9-36a8-4f08-aed6-452d1a437244,ninetytwo.cfd,available,1.39,26.98,low,low,
 8b6d2763-52ac-4ac2-ad85-e67bd2381001,alvine.cfd,available,1.39,26.98,low,low,6,namecheap,,,
 6e0f24cd-a446-44b9-be98-77ec62b46de3,regulate.cfd,available,1.49,,medium,low,8,name.com,,,
 32f4a80f-8130-4d49-9a53-5580d9eae28f,circular.cfd,premium,37.76,76.16,high,low,8,namesilo,,,
-0bbd0cf7-b992-4b22-8f16-1c25198585f9,information.cfd,premium,68.43,147.2,high,low,11,namesilo,,,
+0bbd0cf7-b992-4b22-8f16-1c25198585f9,information.cfd,premium,68.43,147.2,medium,low,11,namesilo,,,23/09/2026 02:55
 5b6d8a23-65d2-4d6b-b0b5-2312ec83a26c,hardly.cfd,available,1.49,,high,low,6,name.com,,,
 a0c48f60-5b36-4577-a27b-7a6ef4d4eeb0,racingline.cfd,available,1.49,,high,low,11,name.com,,,
+c916c754-ff97-4142-99a6-445a773e4887,live.cfd,premium,390,780,medium,low,4,namecheap,,,22/09/2026 00:11
 cf55ee7e-037e-4b87-bee8-bf3b6e07a1db,bahrain.cfd,available,,,medium,low,7,,,,
 e5897465-4f08-4f68-b714-5b2491342f41,seventyfour.cfd,available,1.49,,high,low,12,name.com,,,
 3881f47f-9420-4f6e-99a2-4890b24ccfaa,connection.cfd,premium,37.76,76.16,medium,low,10,namesilo,,,
 ea39339f-bd44-4341-bab4-e60134c26bc2,highdefinition.cfd,available,1.49,,high,low,15,name.com,,,
-6c5576e1-8492-4a8e-b994-0c9ebd3de12f,aging.cfd,premium,241.88,322.5,high,low,5,name.com,,,
+6c5576e1-8492-4a8e-b994-0c9ebd3de12f,aging.cfd,premium,384,768,low,low,5,namesilo,,,21/09/2026 22:40
 a59e1f10-4fd9-4b0a-b07b-bcb74c79ca6d,bedofroses.cfd,available,1.49,,high,low,12,name.com,,,
 83a87048-0019-41b6-bbd5-670c42936ef7,colours.cfd,premium,165.12,330.24,high,low,7,namesilo,,,
 07f4833b-c5c2-4140-9194-12502dd691ab,provisions.cfd,available,1.39,26.98,medium,low,10,namecheap,,,08/09/2026 08:15
@@ -149,16 +150,17 @@ e113d810-8b81-407f-84da-2ac33cfcdd38,blooddonation.cfd,available,1.49,,high,low,
 27053cac-f7a0-4a3f-b790-e90b8a690fa9,adulterous.cfd,available,1.39,26.98,low,low,10,namecheap,,,
 0358dc73-ba11-4523-9603-df8e16fd7a58,bagdad.cfd,premium,165.12,330.24,medium,low,6,namesilo,,,
 05675514-ce81-425d-9a0a-6dbbbe625558,beaded.cfd,available,1.39,26.98,low,low,6,namecheap,,,09/08/2026 03:18
-c95bb76c-9c0b-4d8d-841a-a53e3bafef5a,observed.cfd,available,1.49,,medium,low,8,name.com,,,
+c95bb76c-9c0b-4d8d-841a-a53e3bafef5a,observed.cfd,available,1.88,19.49,low,low,8,namesilo,,,22/09/2026 09:25
 7b5c7c79-16a8-406f-afa2-f1d1d2ab9351,deal.cfd,resell,,,medium,low,4,"Global Domains International, Inc. DBA DomainCostClub.com",22/07/2022 11:54,22/07/2028 23:59,19/09/2026 16:06
 91bf3613-8844-4ad5-9a5d-1120da14d4b2,readfor.cfd,available,1.49,,low,low,8,name.com,,,
+89f185f5-53d5-455a-93c1-c0898c8482cf,game.cfd,premium,384,768,medium,low,4,namesilo,,,23/09/2026 02:45
 d204d694-68d3-4895-a32f-4b44803454dd,assigned.cfd,available,1.39,26.98,low,low,8,namecheap,,,07/08/2026 06:35
 18c9effc-2486-4e07-86ee-fc6c0839ee9e,mop.cfd,premium,90.3,180.6,high,low,3,namecheap,,,
 1c324a81-b11e-4b34-8121-6128d6fd9b0e,say.cfd,premium,329.6,659.2,medium,low,3,namesilo,,,
 bdb15486-2890-4703-a80b-3c4c9a6ecb33,generically.cfd,available,1.49,,medium,low,11,name.com,,,
 5ca236b9-0151-4383-9c98-79426656833d,ateleiotic.cfd,available,1.39,26.98,low,low,10,namecheap,,,07/08/2026 12:59
 ed5ff39a-a13c-4d03-94e0-4e99cb9db9bf,support.cfd,premium,192,384,medium,medium,7,namesilo,,,08/09/2026 07:15
-c05ec5bc-305b-410b-af62-73f5685cf0e3,answerable.cfd,available,1.49,,high,low,10,name.com,,,
+c05ec5bc-305b-410b-af62-73f5685cf0e3,answerable.cfd,available,1.88,19.49,medium,low,10,namesilo,,,22/09/2026 05:32
 f74d5d30-fe83-4137-9ccc-85a64c9c2eca,keepcompany.cfd,available,1.49,,high,low,12,name.com,,,
 270a2b09-1fd6-4fd8-96fa-9f542f8beab4,speak.cfd,premium,360.5,721,high,low,5,namecheap,,,
 826b9267-cfbb-462f-83e5-920c0606a51c,keepon.cfd,available,1.49,,high,low,7,name.com,,,
@@ -178,10 +180,9 @@ c4888611-48ac-4dab-8b26-829650b20d35,octet.cfd,available,1.39,26.98,low,low,5,na
 a3c0af64-7956-4280-ba43-6c07c67cc36e,execution.cfd,available,,,medium,low,9,,,,
 45227b14-c47b-46be-8fd3-ce25e030ec8b,luncheon.cfd,premium,37.76,76.16,high,low,8,namesilo,,,
 37c2b245-8b10-4431-8c55-7915db36d264,thousandth.cfd,available,1.39,26.98,low,low,10,namecheap,,,
-5d1d3427-828f-4be2-b910-e4b53058cca6,whizz.cfd,available,1.49,29.99,high,low,5,name.com,,,
-1271abeb-163f-496f-9e7f-279fe9d010ad,animating.cfd,available,1.49,,high,low,9,name.com,,,
+5d1d3427-828f-4be2-b910-e4b53058cca6,whizz.cfd,premium,390,780,medium,low,5,namecheap,,,21/09/2026 18:06
+1271abeb-163f-496f-9e7f-279fe9d010ad,animating.cfd,available,1.88,19.49,medium,low,9,namesilo,,,22/09/2026 05:08
 cc90b153-5200-442b-9391-ea4c49cb1e5a,onsale.cfd,premium,384,768,low,low,7,namesilo,,,
-b5fee69b-18c8-43b2-a350-3109382e1156,antiseptic.cfd,available,1.49,,high,low,10,name.com,,,
 6344928f-0d98-4e9a-86d9-4675c3574d7f,makelemonade.cfd,available,1.49,,high,low,13,name.com,,,
 532059e9-20f6-4ac2-aa9b-156366cb9c38,aggregated.cfd,available,1.39,26.98,low,low,10,namecheap,,,
 c5c54e64-2006-4e33-b2f0-71716b673680,ache.cfd,premium,46.61,94.8,low,low,4,namesilo,,,
@@ -197,10 +198,10 @@ b3171d22-ac4e-4722-a9bd-9ad5a7ac7bd8,takingaway.cfd,available,1.49,,low,low,11,n
 5aa61bc6-ef01-4691-b4be-47c01528b42c,entertain.cfd,premium,329.6,659.2,high,low,9,namesilo,,,
 c3115ed5-923b-4682-8fce-cc49903a9fc3,windowseat.cfd,available,1.49,,high,low,11,name.com,,,
 0305e6c8-0444-49c2-a97c-47e957b38b79,mentor.cfd,premium,180.6,361.2,high,low,6,namecheap,,,
-48029b7e-58f8-4165-a5cc-3689ac07eff4,any.cfd,premium,90.3,180.6,high,medium,3,namecheap,,,
+48029b7e-58f8-4165-a5cc-3689ac07eff4,any.cfd,premium,384,768,medium,low,3,namesilo,,,22/09/2026 07:02
 4ee95f96-a9c1-4d71-b7fa-78c501d9eb2d,happily.cfd,available,1.49,,high,low,7,name.com,,,
 ad4d0e55-d9cb-4dde-9d4a-0a119d4cde59,slept.cfd,available,1.49,,low,low,5,name.com,,,
-865c6cbd-ecc8-4577-a9c4-f185f42a1023,decorated.cfd,available,1.49,29.99,medium,low,9,name.com,,,
+865c6cbd-ecc8-4577-a9c4-f185f42a1023,decorated.cfd,available,1.88,19.49,low,low,9,namesilo,,,21/09/2026 19:45
 9abed34f-57d7-433f-ab80-f9ee0e40ca27,valid.cfd,premium,165.12,330.24,high,low,5,namesilo,,,
 7dc34170-99fe-4ad9-a2f4-7d8b99228efc,grow.cfd,resell,,,high,medium,4,Namecheap,14/04/2022 20:23,14/04/2027 23:59,
 f3960511-d55f-4592-b8f6-4a14b8606055,everything.cfd,premium,329.6,659.2,medium,medium,10,namesilo,,,
@@ -225,7 +226,7 @@ c7af4348-a7f7-4b49-a4e0-9088d5d1f998,cxxv.cfd,premium,11.8,23.6,low,low,4,namesi
 61828a45-7fe4-4b4b-8d81-94410013c6b7,getthepicture.cfd,available,1.49,,high,low,15,name.com,,,
 0d74f9c4-6913-4e5d-af75-c709f7515508,sanctioned.cfd,available,1.39,26.98,low,low,10,namecheap,,,06/08/2026 09:24
 34c6601e-bcb4-4827-a2a9-5479712819b7,hardatwork.cfd,available,1.49,,high,low,12,name.com,,,
-11e59383-c639-4493-8683-afedd1e3b74a,weary.cfd,available,1.49,,medium,low,5,name.com,,,
+11e59383-c639-4493-8683-afedd1e3b74a,weary.cfd,premium,46.61,94.8,low,low,5,namesilo,,,22/09/2026 15:10
 bcb964f7-5c8c-4131-8a4b-239925f50a98,cocktail.cfd,premium,37.76,76.16,high,low,8,namesilo,,,
 f4b84c16-80da-4211-911f-0d9d6db54a17,arduous.cfd,available,1.39,26.98,low,low,7,namecheap,,,06/08/2026 16:40
 a7a30fef-e1f8-49ba-a28c-f65742e6645a,naturewriter.cfd,available,1.49,,low,low,13,name.com,,,
@@ -243,11 +244,11 @@ ab69ccb3-2938-4683-a717-1932bf37f4d1,mahfucker.cfd,available,1.49,,medium,low,9,
 a9a1770f-e886-4991-8b94-95fadaa2ae6a,cane.cfd,premium,18.88,37.76,medium,low,4,namesilo,,,
 300dc8dc-c07f-408b-8063-525680413089,middleeast.cfd,premium,192,384,medium,low,11,namesilo,,,
 054633af-fb1a-4a00-8ea5-50d2bb2ef75a,rogue.cfd,resell,,,medium,low,5,Dynadot LLC,06/05/2024 23:01,06/05/2027 23:59,
-e8f58b8f-60dc-4b36-a97f-421b72b2d24f,blessed.cfd,premium,165.12,330.24,medium,low,7,namesilo,,,
+e8f58b8f-60dc-4b36-a97f-421b72b2d24f,blessed.cfd,premium,384,768,low,low,7,namesilo,,,22/09/2026 18:43
 461658f5-8f29-4683-b586-d7539f20c7c0,alar.cfd,premium,46.61,94.8,low,low,4,namesilo,,,
 51ae3aad-6c31-4f70-a2eb-a6b756e4fddf,onschedule.cfd,available,1.49,,high,low,11,name.com,,,
 2d3acc9f-c661-42f0-9263-14b1836e4179,pontifical.cfd,available,1.39,26.98,low,low,10,namecheap,,,06/08/2026 04:15
-f61fbc43-5365-4911-9c12-6904b4804f59,extra.cfd,premium,482.81,643.75,high,low,5,name.com,,,
+f61fbc43-5365-4911-9c12-6904b4804f59,extra.cfd,premium,384,768,medium,low,5,namesilo,,,21/09/2026 17:12
 f40b24a0-d113-4255-9ae3-01116334a9a7,policy.cfd,premium,165.12,330.24,high,low,6,namesilo,,,
 df7e5738-2eae-45df-a43c-c5ec2b447629,assumptive.cfd,available,1.39,26.98,low,low,10,namecheap,,,07/08/2026 08:11
 5ca1a7a6-21ae-493b-9a19-8212bf958e95,bowls.cfd,premium,180.6,361.2,medium,low,5,namecheap,,,
@@ -255,7 +256,7 @@ df7e5738-2eae-45df-a43c-c5ec2b447629,assumptive.cfd,available,1.39,26.98,low,low
 6c6c7d73-f54e-40ce-8cf5-c60b0e0dde64,anuretic.cfd,available,1.39,26.98,low,low,8,namecheap,,,05/08/2026 21:16
 620c744d-05f3-4b6f-a137-b2d2a6e38f62,oldest.cfd,available,1.49,,high,low,6,name.com,,,
 93cabc82-1f61-46bc-a8ae-4ab1ddadcc43,hitup.cfd,available,1.49,,high,low,6,name.com,,,
-92c66f92-828f-4147-89cc-8c21bf467948,garden.cfd,premium,384,768,medium,low,6,namesilo,,,19/09/2026 06:17
+92c66f92-828f-4147-89cc-8c21bf467948,garden.cfd,premium,384,768,medium,low,6,namesilo,,,23/09/2026 03:04
 c0c81081-1b15-4097-a4a9-ec810aab590d,lol.cfd,premium,329.6,659.2,high,low,3,namesilo,,,
 3c9b1466-4c7a-4150-88d6-7731263482e3,fancy.cfd,premium,165.12,330.24,high,low,5,namesilo,,,
 96088372-48b4-4a24-8c69-52d0987afaf1,believe.cfd,premium,180.6,361.2,high,low,7,namecheap,,,
@@ -265,7 +266,7 @@ ca6afa3b-8b67-4c4e-8f87-ec9f8d5beeb5,unassuming.cfd,available,1.49,,high,low,10,
 5bc69207-9c95-4a0a-b6bb-071cfb452067,feelfree.cfd,available,1.49,,medium,low,9,name.com,,,
 5c78b669-3ac8-4652-8dff-1ca6e6497f91,dna.cfd,resell,,,high,medium,3,"Global Domains International, Inc.",19/03/2023 20:51,19/03/2028 23:59,
 096c7819-19fe-463f-8812-373921930689,panther.cfd,premium,165.12,330.24,medium,low,7,namesilo,,,
-d03d8872-b817-4e71-8edb-e1a14fd2a0e8,asian.cfd,premium,180.6,361.2,high,low,5,namecheap,,,
+d03d8872-b817-4e71-8edb-e1a14fd2a0e8,asian.cfd,premium,384,768,low,low,5,namesilo,,,22/09/2026 09:40
 a7b946a6-66fe-471a-8280-24fef3f09a9d,rightaway.cfd,available,1.39,26.98,low,low,10,namecheap,,,19/09/2026 11:46
 6e431c6d-e96e-403c-99c9-85cde290b41b,englishmedium.cfd,available,1.49,,medium,low,14,name.com,,,
 b2052046-83e8-44fa-a042-f7506a931d18,actuated.cfd,available,1.39,26.98,low,low,8,namecheap,,,
@@ -333,10 +334,10 @@ b0bc7831-dd73-4884-8c74-8d4797c2768a,judgment.cfd,available,1.49,,medium,low,8,n
 b00a34c0-2306-430e-898d-86f57843a4e5,nothanks.cfd,available,1.49,,medium,low,9,name.com,,,
 5ccdb905-1f31-4f4d-9a22-cc68977881a0,anagogic.cfd,available,1.39,26.98,low,low,8,namecheap,,,
 5dd9d0d6-98a4-4f7b-9a7a-3891b8273b57,orangejuice.cfd,premium,192,384,medium,low,12,namesilo,,,
-5087ba50-c4a1-44eb-9719-65b07122dd25,alveolar.cfd,available,1.49,29.99,high,low,8,name.com,,,
+5087ba50-c4a1-44eb-9719-65b07122dd25,alveolar.cfd,available,1.39,26.98,medium,low,8,namecheap,,,22/09/2026 02:54
 28c059b7-0f10-4fbc-b488-77292c50ff6a,fortyfive.cfd,available,1.39,26.98,low,low,10,namecheap,,,
 c72075ff-162a-4a53-b125-d0ba044e78c6,specialized.cfd,premium,329.6,659.2,medium,low,11,namesilo,,,
-de8905e7-6715-4efc-9107-7cc04cb6931b,ageing.cfd,premium,241.88,322.5,high,low,6,name.com,,,
+de8905e7-6715-4efc-9107-7cc04cb6931b,ageing.cfd,premium,384,768,low,low,6,namesilo,,,21/09/2026 22:43
 e1e8e635-8f58-44e0-9aeb-1ad88db65f13,muhfucker.cfd,available,1.49,,medium,low,9,name.com,,,
 46d3e055-a606-47c5-9938-b0c49e670d87,dowjones.cfd,premium,329.6,659.2,high,medium,9,namesilo,,,
 96e7d9a5-fd27-4780-9861-bc9c5479b286,trite.cfd,premium,384,768,low,low,5,namesilo,,,08/08/2026 11:19
@@ -347,15 +348,15 @@ b9d6fd7d-ea6e-45be-adb9-88d922e39109,tho.cfd,premium,90.3,180.6,medium,low,3,nam
 54d705c3-303d-475b-8f56-d023df5a61d3,mealdeal.cfd,available,1.49,,high,low,9,name.com,,,
 eee30a54-5c59-405d-895f-e4de96c2179b,moneylaundering.cfd,available,1.49,,medium,low,16,name.com,,,
 9aa33014-36cf-4ff9-9bf4-b9f2b4628e2d,goodafternoon.cfd,available,1.49,,medium,low,14,name.com,,,
-001a96b6-c6c6-4deb-9bb7-b03fdc99dbe9,sum.cfd,premium,482.81,643.75,medium,low,3,name.com,,,
+001a96b6-c6c6-4deb-9bb7-b03fdc99dbe9,sum.cfd,premium,390,780,low,low,3,namecheap,,,21/09/2026 22:52
 7578651b-da20-4a78-a059-ecc4e37bd62d,awhile.cfd,available,1.49,,medium,low,6,name.com,,,
-0375e3c1-4246-42e2-ae64-cc366d78c116,animated.cfd,premium,37.76,76.16,high,low,8,namesilo,,,
+0375e3c1-4246-42e2-ae64-cc366d78c116,animated.cfd,premium,68.43,147.2,medium,low,8,namesilo,,,22/09/2026 05:00
 95d72074-98cf-404c-865e-75f4c93c3c90,occasion.cfd,premium,37.76,76.16,high,low,8,namesilo,,,
 a1eb1c82-55c6-4802-9d3d-233934582b38,visited.cfd,premium,165.12,330.24,high,low,7,namesilo,,,
 63c90b41-18f7-436c-b063-35d559b6fd46,crap.cfd,premium,329.6,659.2,medium,low,4,namesilo,,,
-5e301b41-e2a6-494f-90e8-1ac4c6882996,absence.cfd,available,,,medium,low,7,,,,
+5e301b41-e2a6-494f-90e8-1ac4c6882996,absence.cfd,available,,,low,low,7,,,,
 dd038247-3ae7-4155-a955-9baba34432ce,googler.cfd,available,1.49,,high,low,7,name.com,,,
-f33b33c2-b459-4181-b1bd-28462ed7c46b,abovewritten.cfd,available,1.49,,medium,low,13,name.com,,,
+f33b33c2-b459-4181-b1bd-28462ed7c46b,abovewritten.cfd,available,1.49,,low,low,13,name.com,,,
 b16f1dd1-a66a-4beb-bf3a-8428e7ea2bf2,trader.cfd,premium,329.6,659.2,high,low,6,namesilo,,,
 a4e3c1c0-62d2-46fc-aa9c-c6dbc3e452d7,entirely.cfd,available,1.39,26.98,low,low,8,namecheap,,,
 ccc215f3-a27f-4398-9aab-21eaef346186,enhance.cfd,premium,165.12,330.24,high,low,7,namesilo,,,
@@ -368,7 +369,7 @@ aa00b54e-b2ab-4857-b58b-dbcce35114a7,race.cfd,premium,360.5,721,high,low,4,namec
 31fa626c-890f-48c2-b545-494dfd128f17,voicemessage.cfd,available,1.49,,high,low,13,name.com,,,
 fb3cc33c-5024-4101-a13c-685039619823,clustered.cfd,available,1.39,26.98,low,low,9,namecheap,,,
 dcdc2eb2-6d7e-496f-9988-31bed2ad5ebc,using.cfd,available,1.49,,high,low,5,name.com,,,
-a153d6df-2f3b-4a55-bbec-cce89b5ac01b,tea.cfd,premium,384,768,medium,low,3,namesilo,,,19/09/2026 04:49
+a153d6df-2f3b-4a55-bbec-cce89b5ac01b,tea.cfd,premium,384,768,medium,low,3,namesilo,,,23/09/2026 02:52
 16c280eb-56d3-4588-85a3-a9783bb54cfa,antisocial.cfd,available,1.39,26.98,low,low,10,namecheap,,,05/08/2026 19:39
 e0d03183-7600-43d7-8db0-fef5dbfe374d,farm.cfd,premium,18.88,37.76,high,low,4,namesilo,,,
 558ca4ef-caec-4b43-b81f-fbbcdb078e53,fairy.cfd,premium,165.12,330.24,high,low,5,namesilo,,,
@@ -393,7 +394,7 @@ e1cb1796-4f41-4dcf-8e3c-4a0e5e7229c7,unit.cfd,premium,384,768,medium,low,4,names
 fd6508e3-9e83-4e5a-8b5c-a93eb39286a0,individual.cfd,premium,37.76,76.16,high,low,10,namesilo,,,
 fbecacce-a2f6-47f9-b557-f3854fe50967,termination.cfd,available,,,low,low,11,,,,
 f83b5523-bed8-449f-ba29-f240bdab7c70,papal.cfd,available,1.39,26.98,low,low,5,namecheap,,,06/08/2026 04:09
-4c2fe445-992f-4ac9-9697-5e3d3d3feda2,avocado.cfd,resell,,,high,low,7,"Global Domains International, Inc.",22/11/2023 18:44,22/11/2026 23:59,
+4c2fe445-992f-4ac9-9697-5e3d3d3feda2,avocado.cfd,resell,,,medium,low,7,"Global Domains International, Inc. DBA DomainCostClub.com",22/11/2023 18:44,22/11/2026 23:59,22/09/2026 14:34
 7268f416-daa1-4720-aec2-883fe3d34a7c,whitemeat.cfd,available,1.49,,low,low,10,name.com,,,
 0fd9778f-7965-4c61-8d4f-5c7ebabd7b6d,adrenalinerush.cfd,available,1.49,,high,low,15,name.com,,,
 b5497655-9147-4fe9-938a-5d932753d4fe,akimbo.cfd,available,1.39,26.98,low,low,6,namecheap,,,
@@ -408,15 +409,16 @@ f08c761f-3fa0-4d90-b405-05aadab697d9,givesomeoneakiss.cfd,available,1.49,,medium
 a0c94aa1-0fd2-4ac8-83dc-da548103d918,ballistic.cfd,available,1.39,26.98,low,low,9,namecheap,,,08/08/2026 10:31
 d3894d66-9bb7-4a92-9c2b-5b4ce58f664c,aspirer.cfd,available,1.39,26.98,low,low,7,namecheap,,,07/08/2026 05:12
 1c08e614-4078-4cc1-8cbf-e6be1b44911e,abstracted.cfd,premium,68.43,147.2,low,low,10,namesilo,,,
-46ca5707-8f66-42c6-b2df-c0f6583861dd,accident.cfd,premium,37.76,76.16,medium,low,8,namesilo,,,
+46ca5707-8f66-42c6-b2df-c0f6583861dd,accident.cfd,premium,37.76,76.16,low,low,8,namesilo,,,
 5025aa82-25a9-4ca9-b79c-98f9ddc68a13,allegiant.cfd,available,1.39,26.98,low,low,9,namecheap,,,
 8483b75a-d97f-4fc5-9018-464cc7153e8b,ackack.cfd,available,1.39,26.98,low,low,7,namecheap,,,
 9da07480-b231-4c7b-bab6-efccbb252f7a,howwouldiknow.cfd,available,1.49,,medium,low,16,name.com,,,
 02d4c65d-bf16-42e9-9172-1de781cd30ab,iknowit.cfd,premium,46.61,94.8,medium,low,9,namesilo,,,
+c6e69df0-bf2b-40ae-8ac0-5fc5122d87d2,acceptable.cfd,premium,68.43,147.2,medium,low,10,namesilo,,,21/09/2026 15:23
 f16ed223-53d0-4e5f-ac5d-6c6243db82ac,disguise.cfd,available,1.49,,high,low,8,name.com,,,
-b8376689-094c-4fee-b096-81292742a42b,after.cfd,premium,241.88,322.5,high,low,5,name.com,,,
-5d6500c3-6518-4419-839b-443a0b1f0579,ancient.cfd,premium,165.12,330.24,high,low,7,namesilo,,,
-64ae8812-0221-4abc-a280-666d32ad0abe,alterable.cfd,available,1.49,29.99,high,low,9,name.com,,,
+b8376689-094c-4fee-b096-81292742a42b,after.cfd,premium,390,780,medium,low,5,namecheap,,,21/09/2026 22:16
+5d6500c3-6518-4419-839b-443a0b1f0579,ancient.cfd,premium,384,768,medium,low,7,namesilo,,,22/09/2026 04:21
+64ae8812-0221-4abc-a280-666d32ad0abe,alterable.cfd,available,1.39,26.98,low,low,9,namecheap,,,22/09/2026 02:18
 1790c851-2155-4b5d-af25-62b27096b92c,random.cfd,premium,390,780,low,low,6,namecheap,,,19/09/2026 11:18
 2913bd09-e9c0-4343-bcab-ee08fc7f5421,shirt.cfd,premium,165.12,330.24,high,low,5,namesilo,,,
 ec793d59-1d09-4e63-acb9-b3a80fc1abe8,rump.cfd,premium,11.8,23.6,low,low,4,namesilo,,,09/08/2026 11:28
@@ -437,7 +439,7 @@ b5bd67da-7b4b-4fdb-aa9b-3b253c7f9ad4,arrive.cfd,premium,165.12,330.24,high,low,6
 dab20719-d794-4820-9b54-ad7dabec3f07,acyclic.cfd,available,1.39,26.98,low,low,7,namecheap,,,
 76d6754a-3d16-4215-8d8d-ebcd1e65ff7a,payfor.cfd,available,1.49,,high,low,7,name.com,,,
 0a230a5a-8249-40e5-8834-f622603db89b,indigenous.cfd,available,1.39,26.98,low,low,10,namecheap,,,07/08/2026 19:31
-04f0aef4-5caa-4371-8c1c-8be057e5922d,robotic.cfd,premium,165.12,330.24,high,low,7,namesilo,,,
+04f0aef4-5caa-4371-8c1c-8be057e5922d,robotic.cfd,premium,195,390,low,low,7,namecheap,,,22/09/2026 14:05
 567b990e-f5a5-4bb4-baf1-a97942e8b132,fortyeight.cfd,available,1.49,,high,low,11,name.com,,,
 46d1d92a-4664-4521-8306-5263267346cb,aufait.cfd,available,1.39,26.98,low,low,7,namecheap,,,
 0a86d8df-2ddd-44df-ba3b-a58a588cdcd5,attheelbow.cfd,available,1.49,,medium,low,12,name.com,,,
@@ -454,12 +456,12 @@ a3b5edea-53ae-452a-9aa1-20f75060bf78,calf.cfd,premium,18.88,37.76,high,low,4,nam
 9104c353-55c0-4f1e-8bcc-b35b5baac5f8,fruity.cfd,premium,390,780,medium,low,6,namecheap,,,06/08/2026 21:00
 da1bbe02-970c-4ba5-aa12-f005c2ef909d,large.cfd,premium,384,768,medium,low,5,namesilo,,,19/09/2026 10:18
 1dee3c04-c45d-4a53-a923-3ddf60a27689,boot.cfd,resell,,,high,low,4,"Global Domains International, Inc.",11/01/2023 18:14,11/01/2027 23:59,
-dcfbe28c-377c-4c7d-ac47-e05ec267b7bd,alternate.cfd,premium,60,80,high,low,9,name.com,,,
+dcfbe28c-377c-4c7d-ac47-e05ec267b7bd,alternate.cfd,premium,68.43,147.2,low,low,9,namesilo,,,22/09/2026 02:29
 8ab114de-8244-479b-a6f4-1c6efe0567b1,illuminated.cfd,available,1.49,,high,low,11,name.com,,,
-cc408d02-c848-4808-9643-ee408397ad2e,creature.cfd,premium,37.76,76.16,medium,low,8,namesilo,,,
+cc408d02-c848-4808-9643-ee408397ad2e,creature.cfd,premium,74.75,149.5,low,low,8,namecheap,,,22/09/2026 04:42
 a2aaed64-a52a-4dd2-95db-58e1503d344c,aborigine.cfd,available,1.39,26.98,low,low,9,namecheap,,,
 f7194b70-73b9-47c4-80f7-5faf72dedfa5,flower.cfd,premium,329.6,659.2,high,low,6,namesilo,,,
-b462ad2e-b152-496c-8d64-40bea5444140,passon.cfd,available,1.49,29.99,high,low,7,name.com,,,
+b462ad2e-b152-496c-8d64-40bea5444140,passon.cfd,available,1.39,26.98,low,low,7,namecheap,,,21/09/2026 20:29
 9a06a6ab-0136-4c5a-9e0e-eb94377f9225,mods.cfd,premium,22.4,44.8,high,low,4,namecheap,,,
 1db3b68b-0e25-4297-a2df-c3d7c5eb6a2d,supportive.cfd,available,1.49,,high,low,10,name.com,,,
 1235fd17-918e-45c6-9c9c-72263adeddcc,allsmiles.cfd,available,1.49,,medium,low,10,name.com,,,
@@ -485,13 +487,13 @@ c1e03ea2-66d9-4026-81f6-74f8f1da5a68,asshole.cfd,premium,68.43,147.2,low,low,7,n
 190177e9-965c-4c06-bd33-ad7e7626686a,valuable.cfd,premium,37.76,76.16,high,low,8,namesilo,,,
 476300de-412e-4159-a6bc-766fbc014892,renegade.cfd,resell,,,low,low,8,Dynadot Inc,02/12/2023 19:51,02/12/2026 23:59,06/08/2026 03:45
 8310dc1c-6b37-47b7-93c7-868f2a023a39,oyster.cfd,premium,165.12,330.24,medium,low,6,namesilo,,,
-856d4b62-4a28-4c53-b2b8-610f3e78e1d3,colored.cfd,available,1.49,,high,low,7,name.com,,,
+856d4b62-4a28-4c53-b2b8-610f3e78e1d3,colored.cfd,available,1.39,26.98,low,low,7,namecheap,,,22/09/2026 20:23
 a3c29889-9681-486b-bb71-a5676fee7fcc,feminism.cfd,premium,37.76,76.16,medium,low,8,namesilo,,,
 4c69fd7c-5613-47e6-8b6b-721b2114e7e8,court.cfd,premium,180.6,361.2,medium,low,5,namecheap,,,
 5bca8158-34d2-4a03-bdb1-86150612a9d4,thankful.cfd,available,1.49,,high,low,8,name.com,,,
 5e0ae23f-bb84-4383-962f-3beb0d022a52,subjective.cfd,available,1.49,,medium,low,10,name.com,,,
 3fa6833c-6e6a-4dab-8dfe-20b2572acd40,abstemious.cfd,available,1.39,26.98,low,low,10,namecheap,,,
-ab811533-4855-4805-91bf-ba1cd94f631f,xxii.cfd,premium,15.6,20.8,medium,low,4,namecheap,,,
+ab811533-4855-4805-91bf-ba1cd94f631f,xxii.cfd,premium,11.8,23.6,low,low,4,namesilo,,,21/09/2026 12:40
 d2973463-bf29-48c0-ad74-3f081a09c705,willow.cfd,premium,165.12,330.24,medium,low,6,namesilo,,,
 87be8fc1-ad96-40fd-92ea-04172d748536,giveinto.cfd,available,1.49,,medium,low,9,name.com,,,
 686c0c9e-c315-4026-a38d-0713b0d9e963,driver.cfd,premium,165.12,330.24,high,low,6,namesilo,,,
@@ -503,7 +505,7 @@ c3ae2263-4396-48c7-9fc6-5a8200424bb8,nitric.cfd,available,1.39,26.98,low,low,6,n
 b149ebcc-491c-485e-b613-891f143f470c,punchabove.cfd,available,1.49,,low,low,11,name.com,,,
 08009a6d-22e5-4ca2-8aed-0abf30b52cd2,resume.cfd,premium,241.88,322.5,high,low,6,name.com,,,
 e0be6704-c295-45fb-b954-37d4ff6d0b72,always.cfd,premium,329.6,659.2,high,low,6,namesilo,,,
-8b08de7c-fd62-41cd-8619-e382a3da71aa,thousand.cfd,premium,60,80,high,low,8,name.com,,,
+8b08de7c-fd62-41cd-8619-e382a3da71aa,thousand.cfd,premium,74.75,149.5,medium,low,8,namecheap,,,21/09/2026 11:02
 8a48b621-ccf6-4f3b-ab51-1324825acb7c,conventionally.cfd,available,1.49,,medium,low,14,name.com,,,
 4c8b5a60-e04a-40a6-8c8e-2cf5f7291b66,max.cfd,premium,329.6,659.2,high,medium,3,namesilo,,,
 0bdf7900-5cde-49ad-8bff-d0b243eb73a9,diligent.cfd,available,1.49,29.99,medium,low,8,name.com,,,
@@ -516,7 +518,7 @@ aa864afd-b5ae-417c-974e-1f0c480c2d84,amused.cfd,premium,384,768,low,low,6,namesi
 42d4aacd-ff25-4165-9abe-31ce40cf149f,presentation.cfd,premium,80.5,161,medium,low,12,namecheap,,,
 ac2fa62b-8f57-447c-bb96-addc5870b6d9,bringing.cfd,available,1.49,,medium,low,8,name.com,,,
 e9fc6d23-155e-4861-9186-10b3afe638ce,plate.cfd,premium,165.12,330.24,medium,low,5,namesilo,,,
-0abd2980-44e0-4779-b01a-9a5cfd135af9,bound.cfd,premium,180.6,361.2,medium,low,5,namecheap,,,
+0abd2980-44e0-4779-b01a-9a5cfd135af9,bound.cfd,premium,384,768,low,low,5,namesilo,,,22/09/2026 07:27
 7c089ad5-eab8-42c4-8555-79c7e25a6422,grandson.cfd,available,1.49,,high,low,8,name.com,,,
 02d5a599-300d-48de-9acf-3cf16a572ff1,bargain.cfd,premium,329.6,659.2,high,low,7,namesilo,,,
 46b66eef-3d6b-4ad6-a9d9-ca8bb751a077,licensed.cfd,premium,384,768,low,low,8,namesilo,,,19/09/2026 16:56
@@ -541,7 +543,7 @@ fad1914a-68cb-40dd-ad9d-4f8b908c5067,sperm.cfd,premium,165.12,330.24,high,low,5,
 00713ab9-48c3-4b68-aa85-0f77fb47e9a1,disconnect.cfd,available,1.49,,high,low,10,name.com,,,
 2d820874-c35c-4cb8-bda2-84b466647ecd,divide.cfd,premium,165.12,330.24,high,low,6,namesilo,,,
 b171ba3e-1cf9-4686-a3b0-d2aa6416878f,event.cfd,premium,167.38,669.5,high,medium,5,namecheap,,,
-2e91407d-aa5f-4f4e-b037-ce3825b295ee,antacid.cfd,available,1.49,,high,low,7,name.com,,,
+2e91407d-aa5f-4f4e-b037-ce3825b295ee,antacid.cfd,available,1.39,26.98,medium,low,7,namecheap,,,22/09/2026 05:43
 6b76190e-b6ec-4c74-b317-318216bc5429,backmost.cfd,available,1.39,26.98,low,low,8,namecheap,,,08/08/2026 05:53
 66d985fd-2da6-44af-83c7-24dabc97b5bf,leisure.cfd,premium,165.12,330.24,high,low,7,namesilo,,,
 254ae798-b39b-48db-9817-57c61195b56e,tile.cfd,premium,18.88,37.76,high,low,4,namesilo,,,
@@ -564,20 +566,20 @@ c1f2d045-7be2-4a0f-92f9-649ee141fa1d,raised.cfd,available,1.49,,high,low,6,name.
 9941cd9e-fa3a-4b45-a053-d6982ddd95bd,liquor.cfd,premium,180.6,361.2,high,low,6,namecheap,,,
 755d1fe1-12e4-4695-a4d5-c7563cc59b1f,southafrica.cfd,available,,,low,low,12,,,,
 b4ff4db8-b1d0-400c-bc5c-a973797918f1,agrypnotic.cfd,available,1.39,26.98,low,low,10,namecheap,,,
-f2dac49d-af12-4882-a094-ccfceaf5a125,teasing.cfd,available,1.49,,high,low,7,name.com,,,
+f2dac49d-af12-4882-a094-ccfceaf5a125,teasing.cfd,available,1.99,31.99,low,low,7,name.com,,,22/09/2026 05:24
 8b81c8ab-19c6-4063-9400-97b1fb20c0ca,couple.cfd,premium,165.12,330.24,high,low,6,namesilo,,,
 f889204e-541a-48de-a19e-6d660e0d66d6,steam.cfd,premium,360.5,721,medium,medium,5,namecheap,,,
 179a8bee-f162-410a-ae80-cea9d9f598a2,importantly.cfd,available,1.49,,medium,low,11,name.com,,,
 2e845443-81d6-4196-a995-33890ce6086d,wooden.cfd,premium,165.12,330.24,medium,low,6,namesilo,,,
 f282b9f4-8284-4b85-9ff4-b243ff561d97,finalwords.cfd,available,1.49,,high,low,11,name.com,,,
 d8e61c23-45f9-4fb7-a82b-09974c3528e7,intheworstway.cfd,available,1.49,,medium,low,16,name.com,,,
-105bb28a-aaaa-4f97-9101-fcea717a8e6a,badly.cfd,available,1.49,,medium,low,5,name.com,,,
+105bb28a-aaaa-4f97-9101-fcea717a8e6a,badly.cfd,available,1.88,19.49,low,low,5,namesilo,,,22/09/2026 16:07
 076c6105-8a83-4edc-b242-be60156018ca,peace.cfd,premium,165.12,330.24,high,low,5,namesilo,,,
 2838576d-7fa8-48b2-ac96-06ba1dbca47a,fee.cfd,premium,76.76,165.12,high,low,3,namesilo,,,
 22b07e6a-cb2b-4983-8e29-647edaf2c595,notime.cfd,premium,55.3,110.6,low,low,7,namecheap,,,
 785b9e20-60e2-490d-bd42-f5d9e01f108f,fin.cfd,premium,384,768,low,low,3,namesilo,,,
 0674a70b-da14-40d0-a066-e30a5c760ff7,keepscore.cfd,available,1.49,,high,low,10,name.com,,,
-94679caa-6bd3-49a6-9bec-49279c373248,behind.cfd,premium,165.12,330.24,high,low,6,namesilo,,,
+94679caa-6bd3-49a6-9bec-49279c373248,behind.cfd,premium,390,780,medium,low,6,namecheap,,,22/09/2026 18:54
 1c0a20f7-fccd-4ded-8349-0c97bdd6f2f9,participant.cfd,premium,37.76,76.16,high,low,11,namesilo,,,
 d0b936ce-2880-4e67-b353-c9c4f146dee4,ammonitic.cfd,available,1.39,26.98,low,low,9,namecheap,,,
 6342b503-b37d-4a50-8e2e-64a59777ecbb,arresting.cfd,available,1.39,26.98,low,low,9,namecheap,,,06/08/2026 21:47
@@ -587,17 +589,17 @@ d0b936ce-2880-4e67-b353-c9c4f146dee4,ammonitic.cfd,available,1.39,26.98,low,low,
 0de92225-5ecc-4f56-addf-060833eed141,burden.cfd,premium,165.12,330.24,medium,low,6,namesilo,,,
 10ca73d7-3e04-4b06-81d6-6cd8798bd39e,extensive.cfd,available,1.39,26.98,low,low,9,namecheap,,,
 22c5bcfd-5a21-4b48-bbc9-7fffc47040ea,takeonboard.cfd,available,1.49,,medium,low,13,name.com,,,
-57c268a8-e9d3-47cd-8788-61cfc9ff6d24,low.cfd,premium,120.94,161.25,high,low,3,name.com,,,
+57c268a8-e9d3-47cd-8788-61cfc9ff6d24,low.cfd,premium,195,390,low,low,3,namecheap,,,21/09/2026 13:54
 04af100a-3841-4d19-a3c0-30ced86ab2cf,biddable.cfd,available,1.39,26.98,low,low,8,namecheap,,,
 d69e7dd0-4ce2-47a1-b82d-1fdbda62cfe4,peaking.cfd,available,1.49,,high,low,7,name.com,,,
 c9f05873-3623-4712-b0ce-7cba69f8ef42,pubmed.cfd,available,1.49,,high,low,6,name.com,,,
 31d17349-b9de-49a6-a860-d74be2d42f0e,barbecued.cfd,available,1.39,26.98,low,low,9,namecheap,,,08/08/2026 16:25
-69f8b544-6477-445b-a932-1defcfffb088,hotshot.cfd,available,1.49,29.99,high,low,7,name.com,,,
+69f8b544-6477-445b-a932-1defcfffb088,hotshot.cfd,available,1.39,26.98,medium,low,7,namecheap,,,21/09/2026 17:48
 2a2e6a70-9acb-467e-bd03-3aada8fe6b70,sit.cfd,premium,76.76,165.12,high,low,3,namesilo,,,
-a2987b69-df16-49fd-ab0b-78a452902597,proficient.cfd,available,1.49,29.99,high,low,10,name.com,,,
+a2987b69-df16-49fd-ab0b-78a452902597,proficient.cfd,available,1.39,26.98,medium,low,10,namecheap,,,21/09/2026 17:23
 fa8d39bc-afee-47b6-8db3-016fca05ea4c,micro.cfd,premium,165.12,330.24,medium,medium,5,namesilo,,,
 809d80e8-c6b9-40e5-91e8-e7d2e8f3bf66,amygdaloid.cfd,available,1.39,26.98,low,low,10,namecheap,,,
-b81fc403-dc4f-4dce-a10f-1c42e543c4c9,respondent.cfd,available,1.49,,high,low,10,name.com,,,
+b81fc403-dc4f-4dce-a10f-1c42e543c4c9,respondent.cfd,available,1.88,19.49,medium,low,10,namesilo,,,22/09/2026 05:39
 b20162b4-20e8-4e9b-9255-1ce598d47d9b,ofcourse.cfd,available,1.49,,medium,low,9,name.com,,,
 bea3956a-d93a-421b-a3a3-6d8eaf7fb475,revolt.cfd,premium,165.12,330.24,high,low,6,namesilo,,,
 bf5d8605-d08c-4937-9fb2-17af4fca5a37,chanukah.cfd,available,1.49,,medium,low,8,name.com,,,
@@ -605,7 +607,7 @@ db64132d-357d-4904-b717-1386418e6594,cement.cfd,available,1.49,,medium,low,6,nam
 27ee826c-7e2c-4a0a-8f40-9eacce3aeece,respectfully.cfd,available,1.49,,medium,low,12,name.com,,,
 e025a7c5-cbe9-4d82-80be-aaacb0acec75,outofdate.cfd,available,1.49,,low,low,11,name.com,,,
 7025e1e6-d6a5-4a8b-b610-248d5dca9443,thread.cfd,premium,180.6,361.2,high,low,6,namecheap,,,
-33577bdc-dbee-4392-b3be-e69ca53ad689,verywell.cfd,available,1.49,29.99,medium,low,9,name.com,,,
+33577bdc-dbee-4392-b3be-e69ca53ad689,verywell.cfd,available,1.88,19.49,low,low,9,namesilo,,,22/09/2026 01:12
 355d2f6d-326c-4fa0-820f-157fa058c3a1,trimdown.cfd,available,1.49,,medium,low,9,name.com,,,
 343eab48-96a6-4d0f-bf68-3747e28bdd02,cleaner.cfd,premium,165.12,330.24,high,low,7,namesilo,,,
 c891b12e-8cf0-4366-b73e-21ced5440447,boo.cfd,premium,360.5,721,high,low,3,namecheap,,,
@@ -622,8 +624,8 @@ d7826514-dd8d-400f-bb5e-7a492d837cc0,attorney.cfd,premium,37.76,76.16,high,low,8
 050aeba3-449e-4b64-8143-49f309820cd5,dogtoothgrass.cfd,available,1.49,,high,low,14,name.com,,,
 5f51e557-fe4a-41e0-b39e-1951f1ceb198,scripted.cfd,available,1.49,,medium,low,8,name.com,,,
 88f58c0a-afb8-4a11-9aed-7cedd094e173,breakroom.cfd,available,1.49,,medium,low,10,name.com,,,
-365dfb85-2f95-4b34-be63-870ece81951d,esthetical.cfd,available,1.49,29.99,high,low,10,name.com,,,
-7de2c80b-dfc1-42c2-8383-fd117bdb13cd,stunned.cfd,available,1.49,,medium,low,7,name.com,,,
+365dfb85-2f95-4b34-be63-870ece81951d,esthetical.cfd,available,1.39,26.98,medium,low,10,namecheap,,,21/09/2026 21:22
+7de2c80b-dfc1-42c2-8383-fd117bdb13cd,stunned.cfd,available,1.88,19.49,low,low,7,namesilo,,,22/09/2026 03:44
 f89d7a8c-3d30-49db-888d-730e6043040f,autumn.cfd,premium,165.12,330.24,medium,low,6,namesilo,,,
 6ce86cee-370b-43fd-9428-4d6a83d80af6,trousers.cfd,premium,68.43,147.2,medium,low,8,namesilo,,,
 55acbc37-a930-4b6b-8c3c-c9a52cc95480,interpret.cfd,available,1.49,,high,low,9,name.com,,,
@@ -632,12 +634,12 @@ ba5cfb9a-91dd-439b-a5f8-c8b0ddeb124e,thisisit.cfd,available,1.49,,low,low,10,nam
 f206e814-e918-4eb1-bdd2-67205e5c1cfc,bra.cfd,premium,329.6,659.2,medium,low,3,namesilo,,,
 e999eaf0-2950-488e-8a56-de71030eefa4,begrimed.cfd,available,1.39,26.98,low,low,8,namecheap,,,09/08/2026 09:16
 7354c01f-18e8-45a8-8d8c-831451e0fbb5,premiere.cfd,premium,37.76,76.16,high,low,8,namesilo,,,
-38ef3db7-6cbc-477a-a4f3-a675df028eb0,atomic.cfd,premium,180.6,361.2,high,medium,6,namecheap,,,
+38ef3db7-6cbc-477a-a4f3-a675df028eb0,atomic.cfd,premium,384,768,low,low,6,namesilo,,,22/09/2026 11:03
 2f846732-9640-415f-8404-55e13e5c1850,soothing.cfd,premium,68.43,147.2,low,low,8,namesilo,,,07/08/2026 07:40
 fb4b911f-e924-4e43-ada3-61980d617c2b,coconut.cfd,premium,165.12,330.24,high,low,7,namesilo,,,
 d31ad6c1-83f0-4db2-a1fe-42bd59a903b9,confuse.cfd,available,1.49,,medium,low,7,name.com,,,
 5baeb05d-ffd2-4c4d-b87a-ceb86df42928,absolved.cfd,available,1.39,26.98,low,low,8,namecheap,,,
-13a10712-82c6-44f4-a2d0-862b9e600c23,premarital.cfd,available,1.49,,high,low,10,name.com,,,
+13a10712-82c6-44f4-a2d0-862b9e600c23,premarital.cfd,available,1.88,19.49,medium,low,10,namesilo,,,22/09/2026 06:09
 12ded566-d04a-4b13-98e6-1422dd434108,pestering.cfd,available,1.39,26.98,low,low,9,namecheap,,,
 1a0269ce-ebf6-4b71-8139-ba4b622f797b,aft.cfd,premium,192,384,low,low,3,namesilo,,,
 0fa1ebc0-efcf-419b-881b-b9cde5194400,therealityis.cfd,available,1.49,,low,low,14,name.com,,,
@@ -647,10 +649,10 @@ a48ebf16-b8f0-40e5-a4f7-7dfab4190a65,animals.cfd,premium,80.5,161,medium,low,7,n
 8b5e5464-5a26-4f6f-8947-268a477c53d4,armoured.cfd,available,1.39,26.98,low,low,8,namecheap,,,06/08/2026 20:10
 49984ba3-3492-4778-939d-ec85ba79631b,whatthehell.cfd,available,1.49,,low,low,13,name.com,,,
 9f5d37df-247e-4023-b266-068aed383982,mushy.cfd,premium,384,768,low,low,5,namesilo,,,09/08/2026 00:58
-5ec28ab8-1ced-4ddc-b0e9-318644b68b56,aesthetic.cfd,premium,60,80,high,low,9,name.com,,,
-68842dd2-db9b-4018-bcdc-36d49bf3c631,animate.cfd,available,1.49,,high,low,7,name.com,,,
+5ec28ab8-1ced-4ddc-b0e9-318644b68b56,aesthetic.cfd,premium,195,390,medium,low,9,namecheap,,,21/09/2026 21:10
+68842dd2-db9b-4018-bcdc-36d49bf3c631,animate.cfd,available,1.88,19.49,medium,low,7,namesilo,,,22/09/2026 04:47
 fdf29a2a-04ff-4661-8bda-5716f5efbdcd,donut.cfd,premium,165.12,330.24,high,low,5,namesilo,,,
-93a4a193-bcce-48e4-9eaa-bb1704d43f71,manageable.cfd,available,1.49,29.99,high,low,10,name.com,,,
+93a4a193-bcce-48e4-9eaa-bb1704d43f71,manageable.cfd,available,1.99,31.99,medium,low,10,name.com,,,21/09/2026 15:48
 4b57ae74-3bb8-48a7-8d28-010f8d3051cc,banausic.cfd,available,1.39,26.98,low,low,8,namecheap,,,08/08/2026 11:29
 d8bfd759-5a1d-465d-b23f-64835454c849,applicable.cfd,available,1.39,26.98,low,low,10,namecheap,,,06/08/2026 07:06
 778ba12f-211e-4575-8aca-48bc63d34502,ifallen.cfd,available,1.49,,medium,low,8,name.com,,,
@@ -659,7 +661,7 @@ b58ec9f1-97db-44b2-a4e4-e4ab079c828e,dispose.cfd,available,1.49,,high,low,7,name
 815fefa1-6e12-4078-8928-e83221a3c23b,roots.cfd,premium,165.12,330.24,high,low,5,namesilo,,,
 d79e7b5c-288c-4e3d-95ec-dba8835530f7,businesslunch.cfd,available,1.49,,high,low,14,name.com,,,
 843a1ffe-288a-455e-9f62-0fa467027bca,eventhough.cfd,available,1.49,,medium,low,11,name.com,,,
-1c40bcc3-5d57-4517-bdeb-f73e2665594f,xviii.cfd,available,1.49,29.99,medium,low,5,name.com,,,
+1c40bcc3-5d57-4517-bdeb-f73e2665594f,xviii.cfd,available,1.88,19.49,low,low,5,namesilo,,,21/09/2026 12:00
 02e378df-65f5-42cb-930a-caf70f2885f3,pricelist.cfd,available,1.49,,medium,low,10,name.com,,,
 8218f341-001f-4881-82b2-5c093106bf74,vicious.cfd,premium,68.43,147.2,low,low,7,namesilo,,,08/08/2026 16:00
 aaf34a70-486a-412e-8596-c051954b1cd0,guest.cfd,premium,165.12,330.24,high,low,5,namesilo,,,
@@ -697,14 +699,13 @@ e9707599-f8a9-4941-b28a-33481caaeb30,investor.cfd,premium,37.76,76.16,high,mediu
 b29cf6cb-96c4-4743-a247-366e12c7f7fb,bacchant.cfd,available,1.39,26.98,low,low,8,namecheap,,,08/08/2026 04:35
 d23365bc-642c-42eb-9a27-239d6bda482f,clergy.cfd,premium,165.12,330.24,medium,low,6,namesilo,,,
 3ef1be06-9b10-4f3c-a6ca-f999b4cfe930,sunbeam.cfd,premium,329.6,659.2,high,low,7,namesilo,,,
-4792e3f2-4735-4fcd-bfa8-e00f103a7263,based.cfd,available,,,high,high,5,,,,
 09add40b-6dca-4b05-adfc-ae62d815cc87,medication.cfd,premium,44.8,89.6,high,low,10,namecheap,,,
 45ce577c-80ff-47dd-bb88-eb00bd0e0a0e,fla.cfd,premium,329.6,659.2,medium,low,3,namesilo,,,
 3f3baf5b-30a8-4c1e-8edb-980eb874f408,nice.cfd,resell,,,high,medium,4,Namecheap,25/05/2024 13:42,25/05/2027 23:59,
 77c660b0-f829-4a5e-bac1-3bf64eb38dfa,chocolatetruffle.cfd,available,1.49,,high,low,17,name.com,,,
 78bdc01a-3398-4772-bec5-6618ca52455e,bringto.cfd,available,1.49,,high,low,8,name.com,,,
 414a3d22-2644-4513-a23e-c80ad284ff51,applaud.cfd,premium,165.12,330.24,high,low,7,namesilo,,,
-29fae2c5-0936-4a0d-bf9d-6079e9925884,acknowledged.cfd,available,1.49,,medium,low,12,name.com,,,
+29fae2c5-0936-4a0d-bf9d-6079e9925884,acknowledged.cfd,available,1.49,,low,low,12,name.com,,,
 2ad687e2-e60a-405a-b8eb-d597ed3a7dec,attested.cfd,available,1.39,26.98,low,low,8,namecheap,,,07/08/2026 15:41
 5f476c95-8cc1-4027-8dcc-a1db7e9f227e,beamy.cfd,available,1.39,26.98,low,low,5,namecheap,,,09/08/2026 04:18
 288bcafa-e5b1-462c-817e-063cd704e033,veg.cfd,premium,329.6,659.2,high,low,3,namesilo,,,
@@ -717,7 +718,7 @@ af9a6193-3354-42ed-b8ee-6f9c8e3593e4,sympathise.cfd,available,1.49,,high,low,10,
 357a8299-81fc-41d7-b788-f0cede4ba0ce,sharpeyed.cfd,available,1.39,26.98,low,low,10,namecheap,,,06/08/2026 18:53
 dfecd687-395a-4805-9d18-f185b04c776f,venerable.cfd,available,1.49,,high,low,9,name.com,,,
 9d3a8b4f-1e7f-4146-b195-e8b65660f0a0,monetary.cfd,premium,1.49,,medium,low,8,name.com,,,
-942f303e-9e42-49ef-ba4d-a32505828edc,accurately.cfd,available,1.49,,high,low,10,name.com,,,
+942f303e-9e42-49ef-ba4d-a32505828edc,accurately.cfd,available,1.49,,medium,low,10,name.com,,,
 7237eee0-7d57-48a6-b5ac-10a090420201,amoristic.cfd,available,1.39,26.98,low,low,9,namecheap,,,
 7644a039-8e48-4ae7-a7b2-47b7fc500843,condiment.cfd,available,1.49,,high,low,9,name.com,,,
 cbdb69b4-159c-43b0-929a-f75f5e961d83,attheoutside.cfd,available,1.49,,medium,low,14,name.com,,,
@@ -726,11 +727,11 @@ dd5c94af-cad9-47e9-82c9-3e68b146946d,install.cfd,premium,165.12,330.24,high,low,
 ab39cabd-10f6-41b3-9e12-4496353b78f8,convince.cfd,available,1.49,,high,low,8,name.com,,,
 28b87448-d0fa-479b-97bb-fc4f98a112fb,start.cfd,resell,,,high,medium,5,Dynadot LLC,29/04/2021 18:46,29/04/2027 23:59,
 e44e5218-caae-449c-a094-deeda35f8b3e,gearchange.cfd,available,1.49,,high,low,11,name.com,,,
-290626c2-de65-406e-a4a7-4b90fd9bfd4c,bland.cfd,premium,165.12,330.24,medium,low,5,namesilo,,,
+290626c2-de65-406e-a4a7-4b90fd9bfd4c,bland.cfd,premium,390,780,low,low,5,namecheap,,,22/09/2026 21:44
 b41c855b-b26a-4185-b510-3ae884cfa201,alaska.cfd,premium,165.12,330.24,high,low,6,namesilo,,,
 19277e53-f2cc-4c26-92f1-6da12b915d43,mask.cfd,premium,18.88,37.76,high,low,4,namesilo,,,
 687202fd-3a37-4aeb-8c92-b0e13a6f702d,unbearable.cfd,available,1.49,,medium,low,10,name.com,,,
-c1e8a6a5-3691-490a-b4b2-6593bc8c8df2,responsive.cfd,premium,37.76,76.16,high,low,10,namesilo,,,
+c1e8a6a5-3691-490a-b4b2-6593bc8c8df2,responsive.cfd,premium,46.61,94.8,medium,low,10,namesilo,,,22/09/2026 06:49
 5d241c97-28ac-4cb9-8007-5d16b9f4e511,rustic.cfd,resell,,,low,low,6,"Global Domains International, Inc. DBA DomainCostClub.com",13/01/2024 22:29,13/01/2027 23:59,
 98d26842-a9d0-4585-be70-34b281b93378,curtain.cfd,premium,180.6,361.2,high,low,7,namecheap,,,
 97ad38ad-9e90-4d90-8638-bf0f8880b33f,outdated.cfd,available,1.49,,medium,low,8,name.com,,,
@@ -755,7 +756,7 @@ a0404745-5c7b-4117-8f3b-36a8d65fefe8,algonkin.cfd,available,1.39,26.98,low,low,8
 269e5926-7dbe-4700-a7a2-b59167241716,missionaccomplished.cfd,available,1.49,,medium,low,20,name.com,,,
 c83b8521-e949-49bf-a9c9-c58883fbf45c,chiaseed.cfd,available,1.49,,high,low,9,name.com,,,
 548310c7-e94e-4fb8-9d30-0c2d75dcacb5,claim.cfd,premium,165.12,330.24,high,low,5,namesilo,,,
-9f08a498-50a1-4c91-8ec4-6b1539b14a77,stamp.cfd,premium,165.12,330.24,medium,low,5,namesilo,,,
+9f08a498-50a1-4c91-8ec4-6b1539b14a77,stamp.cfd,premium,384,768,low,low,5,namesilo,,,23/09/2026 01:04
 ff0ff596-b781-44d7-bd10-c43fb82500cb,memorise.cfd,available,1.49,,high,low,8,name.com,,,
 e05d9f27-7690-4e57-8054-0d971846d7ce,soupy.cfd,available,1.39,26.98,low,low,5,namecheap,,,09/08/2026 01:20
 718e831c-804f-4ca2-bf96-5531440e629b,nutritious.cfd,premium,68.43,147.2,medium,low,10,namesilo,,,19/09/2026 11:02
@@ -772,7 +773,7 @@ e404200d-cc3a-4b5a-b24e-5d08731fc07d,flexible.cfd,available,1.49,29.99,high,low,
 aafa71e9-f11b-4daa-8145-e2118a8be2d2,numbers.cfd,premium,180.6,361.2,high,low,7,namecheap,,,
 744a806d-d995-40bd-ad08-fd4c334cd7d5,learnt.cfd,available,1.49,,medium,low,6,name.com,,,
 ad7826cd-81f8-4262-9c7e-df9839fa7d1e,butter.cfd,premium,165.12,330.24,high,low,6,namesilo,,,
-8fb3d016-6d50-4d98-ac12-5f8d596e0b76,away.cfd,premium,329.6,659.2,high,low,4,namesilo,,,
+8fb3d016-6d50-4d98-ac12-5f8d596e0b76,away.cfd,premium,384,768,medium,low,4,namesilo,,,22/09/2026 14:52
 9ae9e620-0961-4f91-8166-f807d595ba9e,croptop.cfd,available,1.49,,high,low,8,name.com,,,
 565e44d6-ce29-4d3f-b2d5-39b33d73bf5d,soundbar.cfd,available,1.49,,high,low,8,name.com,,,
 73b99f78-389e-4f4b-9050-2f5d88bafab7,laws.cfd,premium,18.88,37.76,high,low,4,namesilo,,,
@@ -783,7 +784,7 @@ e3f941d3-959e-4019-bc18-a5e3f1cb65c1,allopathic.cfd,available,1.39,26.98,low,low
 114563ad-85c1-442a-a763-397a1e315729,freshair.cfd,available,,,high,low,9,,,,
 31872580-50b1-4057-92d0-b63c51792cc0,pre.cfd,premium,76.76,165.12,medium,low,3,namesilo,,,
 4e17288f-b6e7-460d-950d-55d7563bc79f,dissolve.cfd,available,1.49,,high,low,8,name.com,,,
-0d967dd7-b9b7-49a5-9b38-47b777be9438,apart.cfd,available,1.49,,high,low,5,name.com,,,
+0d967dd7-b9b7-49a5-9b38-47b777be9438,apart.cfd,premium,384,768,low,low,5,namesilo,,,22/09/2026 07:07
 7f5b3dc0-8a7d-4911-834f-a9d6e51f950f,bedridden.cfd,available,1.39,26.98,low,low,9,namecheap,,,09/08/2026 07:02
 78093d02-eb8d-4a5b-beb8-4ca67e1e8c89,freshasadaisy.cfd,available,1.49,,medium,low,16,name.com,,,
 9c392aca-a688-4fe9-9d1f-1ea0b65f441c,anall.cfd,available,1.49,,medium,low,6,name.com,,,
@@ -807,7 +808,7 @@ cb4f5b4c-5bee-43af-95c7-10b25640747c,atthesightof.cfd,available,1.49,,medium,low
 fbf5ff9b-e44a-4b98-b844-d1c33701c9fc,few.cfd,premium,76.76,165.12,high,low,3,namesilo,,,
 b93d16ac-13b9-4d40-9c8d-63b3769dca1b,lazuline.cfd,available,1.39,26.98,low,low,8,namecheap,,,08/08/2026 03:18
 15ff9c8f-8bf8-4359-b997-906bed237515,league.cfd,premium,165.12,330.24,medium,low,6,namesilo,,,
-f99634d3-c75a-432c-b779-e4b69fea4514,documented.cfd,available,1.49,,medium,low,10,name.com,,,
+f99634d3-c75a-432c-b779-e4b69fea4514,documented.cfd,available,1.88,19.49,low,low,10,namesilo,,,22/09/2026 11:37
 3aa112c6-a7f8-4c66-834c-c9b142418f6b,bacterioid.cfd,available,1.39,26.98,low,low,10,namecheap,,,08/08/2026 07:17
 70c7b0fc-3354-475b-8fac-06a5dbf30d70,apply.cfd,premium,390,780,medium,low,5,namecheap,,,19/09/2026 03:36
 402cb3eb-3398-4c9a-b869-42af8dbf4aeb,adhoc.cfd,available,1.39,26.98,low,low,6,namecheap,,,
@@ -888,7 +889,7 @@ f3cd32e1-7108-4be2-ac4c-57e870064d52,ataractic.cfd,available,1.39,26.98,low,low,
 15b279a7-30b4-4058-8378-ee7e97afd4f1,visible.cfd,resell,,,high,low,7,"Global Domains International, Inc.",23/12/2023 16:55,23/12/2026 23:59,
 f78bb3c1-829b-40ab-b6c5-23297253dff4,crash.cfd,premium,165.12,330.24,high,low,5,namesilo,,,
 e3da4d16-9525-423a-aae1-d0a2adca6150,intimate.cfd,resell,,,high,low,8,"Global Domains International, Inc.",27/06/2023 03:38,27/06/2027 23:59,
-e6ed6b98-bfec-43a0-a2dd-f219876e709f,brag.cfd,premium,18.88,37.76,high,low,4,namesilo,,,
+e6ed6b98-bfec-43a0-a2dd-f219876e709f,brag.cfd,premium,13,26,medium,low,4,namecheap,,,23/09/2026 00:49
 e5d6883e-12e8-42f4-9213-bc72178a3941,sortof.cfd,available,1.49,,medium,low,7,name.com,,,
 32346f26-a9c4-4756-a41a-6bce9592473e,violetgold.cfd,available,1.49,,low,low,11,name.com,,,
 3a061219-9c38-4351-9cb9-50e8e67f7dd0,teacher.cfd,premium,165.12,330.24,high,low,7,namesilo,,,
@@ -902,14 +903,14 @@ d979e662-e470-4efb-871b-e02ebd5ba7a4,cooldown.cfd,premium,60,80,high,low,9,name.
 aff0826f-2699-40de-a228-230160a17a5e,gobad.cfd,available,1.49,,high,low,6,name.com,,,
 c56db20b-34e3-4b07-882d-3e4247d03423,force.cfd,premium,83.85,335.4,high,low,5,namecheap,,,
 e9afdde5-3c19-4b24-aa66-91016e2a83e0,won.cfd,premium,329.6,659.2,high,low,3,namesilo,,,
-8d9a0b0d-26c2-4b0a-a7bc-a91f00976676,backward.cfd,available,1.49,,high,low,8,name.com,,,
+8d9a0b0d-26c2-4b0a-a7bc-a91f00976676,backward.cfd,available,1.39,26.98,low,low,8,namecheap,,,22/09/2026 15:53
 fc55fef4-7020-41b2-9196-964582b397c2,apologise.cfd,available,1.49,,high,low,9,name.com,,,
 2abc839b-b630-406b-aa51-b84a1b95cd3c,becoming.cfd,premium,68.43,147.2,low,low,8,namesilo,,,09/08/2026 06:08
 e2df6db7-7784-4bd0-add8-23b9bea84703,asat.cfd,premium,11.8,23.6,low,low,4,namesilo,,,05/08/2026 19:31
 67694034-1567-4f32-8ce8-08ecc121c97e,moderator.cfd,available,1.49,,high,low,9,name.com,,,
 ef2051a5-a2ff-4ca1-adc6-1c5d608f934e,durable.cfd,premium,241.88,322.5,high,low,7,name.com,,,
 8dc4891a-1187-4289-931e-4c0870b82688,him.cfd,premium,329.6,659.2,high,low,3,namesilo,,,
-b299d41f-aaa7-4488-a6e0-25a967d1a270,tender.cfd,premium,241.88,322.5,high,low,6,name.com,,,
+b299d41f-aaa7-4488-a6e0-25a967d1a270,tender.cfd,premium,384,768,medium,low,6,namesilo,,,21/09/2026 21:47
 40391b6c-b434-46ae-804a-4b8deced7a9e,northandsouth.cfd,available,1.49,,medium,low,15,name.com,,,
 2b2494cf-f784-4351-8682-598a3ca32b6e,tortured.cfd,available,1.39,26.98,low,low,8,namecheap,,,
 be41683e-9b2d-4c22-b2ee-0617c2ac0816,alienating.cfd,available,1.39,26.98,low,low,10,namecheap,,,
@@ -922,9 +923,9 @@ fa9dec6e-0bbf-4b28-9047-8d318bb302fd,kilobyte.cfd,available,1.49,,high,low,8,nam
 5dd3aacf-d6a2-42e3-9291-c6b026820811,quitea.cfd,available,1.49,,medium,low,7,name.com,,,
 07c1b5d7-04e9-4c2a-ab6f-13714bd64be4,steps.cfd,premium,165.12,330.24,high,low,5,namesilo,,,
 3215e5b1-2ec5-4bfb-a8c8-d55e64123d7b,ann.cfd,premium,329.6,659.2,high,low,3,namesilo,,,
-ab33f75f-d43b-4544-b349-13bd8b9d9e4c,antenatal.cfd,available,1.49,,high,low,9,name.com,,,
+ab33f75f-d43b-4544-b349-13bd8b9d9e4c,antenatal.cfd,available,1.88,19.49,medium,low,9,namesilo,,,22/09/2026 05:59
 eecf0c54-c29a-4810-8427-cfd4181df7c4,exciting.cfd,available,1.49,,high,low,8,name.com,,,
-5ad111a5-ced5-4e1b-969d-df01b4aa4547,joke.cfd,premium,22.4,44.8,high,low,4,namecheap,,,
+5ad111a5-ced5-4e1b-969d-df01b4aa4547,joke.cfd,premium,46.61,94.8,medium,low,4,namesilo,,,22/09/2026 06:20
 a8e12ab6-3f31-4084-886c-f7ad2a6b5936,stockmarket.cfd,premium,329.6,659.2,high,low,12,namesilo,,,
 57ad7a68-db51-4db8-af53-845502ef746d,sign.cfd,premium,18.88,37.76,high,low,4,namesilo,,,
 85b1645c-84e6-4890-aee8-f2ede0f358af,volleyball.cfd,premium,37.76,76.16,high,low,10,namesilo,,,
@@ -947,12 +948,12 @@ f7446d24-71e7-4508-8949-5bda4a7c4c1c,markets.cfd,premium,68.43,147.2,medium,low,
 bee14cd9-1a33-4e98-8f2b-14663783be77,workethic.cfd,available,1.49,,high,low,10,name.com,,,
 f28a44ca-479a-4309-a70c-7d1266e00fe5,lii.cfd,premium,192,384,low,low,3,namesilo,,,
 6675e80a-0b52-4c23-8599-46e5628ce4fe,thermal.cfd,premium,83.85,335.4,medium,low,7,namecheap,,,
-f741bc58-a6ab-464c-9361-c23ea62d1aea,absent.cfd,premium,241.88,322.5,high,low,6,name.com,,,
+f741bc58-a6ab-464c-9361-c23ea62d1aea,absent.cfd,premium,390,780,low,low,6,namecheap,,,21/09/2026 14:37
 d0a33a7f-37ba-4392-a5f9-18e90699e00e,explorer.cfd,premium,360.5,721,high,low,8,namecheap,,,
 b983818b-507b-4409-9cbd-9381f2bf506a,domestic.cfd,premium,68.43,147.2,medium,low,8,namesilo,,,19/09/2026 12:54
 241b8579-c3de-49d2-8464-7d18e07b1183,unused.cfd,available,1.49,,medium,low,6,name.com,,,
 1bf126fa-2df3-4259-aa89-be23eacbf970,proof.cfd,premium,384,768,medium,low,5,namesilo,,,19/09/2026 13:10
-2b2d24d0-a5c3-4c86-b829-88fab8d0bff1,small.cfd,premium,165.12,330.24,high,low,5,namesilo,,,
+2b2d24d0-a5c3-4c86-b829-88fab8d0bff1,small.cfd,premium,390,780,medium,low,5,namecheap,,,22/09/2026 19:21
 bcc3968d-de0b-4dff-8b0e-3df4b88b3f25,barring.cfd,available,1.49,,medium,low,7,name.com,,,
 da99d0d9-b2be-4846-baed-97ce862b8f6c,crowd.cfd,resell,,,high,low,5,"Global Domains International, Inc.",30/04/2021 22:53,30/04/2028 23:59,
 efdf59a1-732b-4ae3-8e49-4b1a664ef155,brighten.cfd,available,1.49,,high,low,8,name.com,,,
@@ -981,7 +982,7 @@ ecf80b36-6d8f-4587-a826-749a9dcd2380,national.cfd,premium,37.76,76.16,high,mediu
 3af599fc-0d28-4687-91e1-ae9f580363fa,heartburn.cfd,available,1.49,,medium,low,9,name.com,,,
 32140906-0d37-4ea9-8b61-12a3c56d87f8,techweek.cfd,available,1.49,,medium,low,9,name.com,,,
 e1c1e9b7-cacd-4943-8efe-9431f7de2865,carrier.cfd,premium,165.12,330.24,medium,low,7,namesilo,,,
-89d40469-b192-47f7-9143-89f00f2ca611,alleged.cfd,available,1.49,29.99,high,low,7,name.com,,,
+89d40469-b192-47f7-9143-89f00f2ca611,alleged.cfd,premium,74.75,149.5,medium,low,7,namecheap,,,22/09/2026 01:19
 1fbcc4c4-b525-44f3-bcb5-b5882e287196,letmesee.cfd,available,1.49,,medium,low,10,name.com,,,
 c28f899d-dc1a-46a6-a169-327949aafe0e,agone.cfd,available,1.39,26.98,low,low,5,namecheap,,,
 189061b9-8565-4b75-86bb-b642a0862c33,bible.cfd,premium,165.12,330.24,high,medium,5,namesilo,,,
@@ -998,4 +999,3 @@ e19b9264-0ece-462a-a9c8-f0eb80c3abff,makeroom.cfd,available,1.49,,high,low,9,nam
 16461da8-8cad-4f0e-8826-e320a474864b,dragon.cfd,premium,165.12,330.24,high,medium,6,namesilo,,,
 4fdadd86-703d-4b46-af02-522a388d184e,winterhaven.cfd,premium,192,384,low,low,12,namesilo,,,
 d2ff255a-5a0d-4d6d-805a-10e594ba5f97,allocate.cfd,available,1.49,,high,low,8,name.com,,,
-f5abb1ee-c2a0-45d0-9ac4-719efc1e90dc,rainbow.cfd,resell,,,high,medium,7,"Global Domains International, Inc.",30/04/2021 22:54,30/04/2028 23:59,
