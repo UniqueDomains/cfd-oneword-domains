@@ -1,10 +1,10 @@
-# Available .CFD One-Word Domains (23,439)
+# Available .CFD One-Word Domains (23,759)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-23%2C439%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-23%2C759%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .cfd one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **23,439 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **23,759 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 23,439 domains · **Median ask:** $88.29 · **High-demand under $2,500:** 120
+**Public extract:** 1,000 rows · **Live catalog:** 23,759 domains · **Median ask:** $90.41 · **High-demand under $2,500:** 123
 
-**Last updated:** 2026-09-26
+**Last updated:** 2026-09-27
 **Canonical page:** `https://unique.domains/domains/tld/cfd`
 **Best for:** founders, investors, studios
 
@@ -68,13 +68,13 @@ print(df.head())
 | free.cfd   | resell    | —         | —             | high           | medium | 4      | Dynadot Inc                                               |
 | als.cfd    | premium   | $384      | $768          | high           | low    | 3      | namesilo                                                  |
 | agate.cfd  | available | $1.88     | $19.49        | high           | low    | 5      | namesilo                                                  |
-| neon.cfd   | resell    | —         | —             | high           | medium | 4      | —                                                         |
+| neon.cfd   | resell    | —         | —             | high           | medium | 4      | NameCheap, Inc.                                           |
 | azt.cfd    | premium   | $68.43    | $147.20       | high           | low    | 3      | namesilo                                                  |
 | alate.cfd  | available | $1.39     | $26.98        | high           | low    | 5      | namecheap                                                 |
 | trip.cfd   | resell    | —         | —             | high           | low    | 4      | Dynadot Inc                                               |
 | cut.cfd    | premium   | $384      | $768          | high           | low    | 3      | namesilo                                                  |
 | anole.cfd  | available | $1.39     | $26.98        | medium         | low    | 5      | namecheap                                                 |
-| gifts.cfd  | resell    | —         | —             | high           | low    | 5      | —                                                         |
+| gifts.cfd  | resell    | —         | —             | high           | low    | 5      | Global Domains International, Inc. DBA DomainCostClub.com |
 | dig.cfd    | premium   | $562.50   | $750          | high           | low    | 3      | name.com                                                  |
 | apian.cfd  | available | $1.39     | $26.98        | medium         | low    | 5      | namecheap                                                 |
 | inner.cfd  | resell    | —         | —             | high           | low    | 5      | Global Domains International, Inc. DBA DomainCostClub.com |
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 23,439 live domains                        |
+| 1,000-row public sample | 23,759 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 120 high-demand names under $2,500         |
+| Basic exported fields   | 123 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CFD One-Word Domains*. Version 2026-09-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CFD One-Word Domains*. Version 2026-09-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
